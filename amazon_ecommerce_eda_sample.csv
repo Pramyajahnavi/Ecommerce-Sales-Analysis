@@ -1,0 +1,801 @@
+Order ID,Date,Status,Fulfilment,Sales Channel,ship-service-level,Style,SKU,Category,Size,ASIN,Courier Status,Qty,Amount,B2B,Currency,Color,Unit Price,Order Month,Return Flag
+854-2719583-2458591,06-20-22,Shipped,Merchant,Amazon.in,Expedited,SET2169,J0208-DR-3XL,Set,3XL,B0W671412,Cancelled,1,831.57,False,INR,Red,831.57,2022-06,False
+259-4612365-6647119,03-31-22,Shipped,Amazon,Amazon.in,Expedited,J02572,SET3405-KR-3XL,Saree,XL,B0R230889,Cancelled,2,3609.44,True,INR,Red,1804.72,2022-03,False
+171-1768805-4823498,06-19-22,Shipped,Merchant,Non-Amazon,Standard,JNE1656,SET1957-TP-M,Ethnic Dress,L,B0L319684,In Transit,2,2061.52,False,INR,Black,1030.76,2022-06,False
+488-5528972-4684531,06-16-22,Shipped,Merchant,Amazon.in,Standard,SET3466,JNE3397-TP-XL,Blouse,L,B0C321231,In Transit,1,1875.99,False,INR,Maroon,1875.99,2022-06,False
+674-5408072-8187926,05-20-22,Shipped,Merchant,Amazon.in,Standard,SET2187,SET472-KR-S,Blouse,M,B0U267753,Cancelled,1,808.22,False,INR,Yellow,808.22,2022-05,False
+981-1192619-2921859,05-18-22,Pending,Merchant,Amazon.in,Expedited,J01880,JNE1958-KR-3XL,Ethnic Dress,3XL,B0I624902,Delivered,4,5663.84,False,INR,Black,1415.96,2022-05,False
+482-3710343-9897858,06-19-22,Shipped,Amazon,Amazon.in,Expedited,JNE3905,SET3699-TP-M,Western Dress,S,B0H694916,Shipped,2,2733.24,False,INR,Maroon,1366.62,2022-06,False
+662-3770370-5446912,04-08-22,Shipped - Delivered to Buyer,Merchant,Non-Amazon,Standard,SET3020,SET1734-TP-XL,Saree,XXL,B0O226882,Delivered,1,488.25,False,INR,White,488.25,2022-04,False
+824-1987737-4841005,04-02-22,Shipped,Amazon,Amazon.in,Standard,JNE2205,JNE1240-BL-M,Ethnic Dress,XXL,B0E858490,Cancelled,1,1552.41,False,INR,Maroon,1552.41,2022-04,False
+520-8835373-1908841,05-22-22,Shipped,Amazon,Amazon.in,Standard,JNE1118,JNE879-BL-M,kurta,XL,B0F392075,Cancelled,1,1714.66,False,INR,Black,1714.66,2022-05,False
+653-1247595-2564689,05-26-22,Shipped,Amazon,Amazon.in,Expedited,SET3641,SET3796-KR-M,Saree,XL,B0A509386,In Transit,2,2929.5,False,INR,Maroon,1464.75,2022-05,False
+777-9164991-3597059,05-06-22,Cancelled,Amazon,Amazon.in,Standard,JNE3163,SET334-KR-XXL,Top,XL,B0Q994141,Delivered,2,3758.32,True,INR,Black,1879.16,2022-05,True
+222-5130808-1666754,04-23-22,Shipped,Amazon,Amazon.in,Expedited,J03928,SET936-TP-M,Set,L,B0M237235,In Transit,1,1751.99,False,INR,Black,1751.99,2022-04,False
+650-4576135-9487336,04-01-22,Shipped,Merchant,Amazon.in,Expedited,JNE3701,JNE1613-TP-M,Top,XL,B0R837715,In Transit,1,1493.89,False,INR,Blue,1493.89,2022-04,False
+999-3253031-5437001,06-24-22,Shipped,Amazon,Amazon.in,Standard,SET1215,SET2577-DR-3XL,Saree,L,B0G820892,In Transit,1,2342.04,False,INR,Red,2342.04,2022-06,False
+441-3194789-5394880,04-06-22,Shipped,Amazon,Amazon.in,Expedited,PJNE2397,JNE558-KR-3XL,Set,M,B0R137778,In Transit,1,2106.5,False,INR,Pink,2106.5,2022-04,False
+981-1669324-7003042,05-25-22,Shipped - Returned to Seller,Amazon,Amazon.in,Expedited,J03295,J03721-BL-XXL,kurta,3XL,B0E348237,Delivered,1,1037.7,False,INR,Pink,1037.7,2022-05,True
+521-5163555-5476257,05-22-22,Cancelled,Amazon,Amazon.in,Expedited,JNE3616,SET1011-DR-XL,Set,L,B0J960394,Delivered,1,2325.32,False,INR,Green,2325.32,2022-05,True
+459-9546409-7705490,05-21-22,Cancelled,Merchant,Amazon.in,Expedited,J0831,J01187-KR-S,Western Dress,XXL,B0N462479,In Transit,1,358.67,False,INR,Black,358.67,2022-05,True
+632-4305700-7110622,05-19-22,Shipped,Merchant,Amazon.in,Expedited,J02652,SET2817-KR-3XL,Ethnic Dress,L,B0Q424308,Cancelled,1,301.09,False,INR,Red,301.09,2022-05,False
+866-3919694-6049101,06-09-22,Shipped,Merchant,Amazon.in,Expedited,J0960,SET3318-TP-XL,kurta,XL,B0O808446,Delivered,1,1728.34,False,INR,Pink,1728.34,2022-06,False
+195-4940441-6207974,06-23-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,JNE1102,SET2603-KR-XL,Set,XL,B0U703634,Delivered,1,1725.86,False,INR,Yellow,1725.86,2022-06,False
+868-2788238-8132769,06-02-22,Shipped,Amazon,Amazon.in,Standard,PJNE305,J01120-KR-XL,Top,M,B0Z587213,In Transit,1,1707.93,False,INR,Maroon,1707.93,2022-06,False
+661-8481188-3670226,06-17-22,Cancelled,Merchant,Amazon.in,Standard,J03236,J02084-DR-L,Saree,XL,B0C848206,In Transit,2,2719.98,False,INR,White,1359.99,2022-06,True
+256-4589533-2077581,05-10-22,Shipped,Merchant,Amazon.in,Expedited,PJNE355,JNE3511-BL-XL,Ethnic Dress,XXL,B0W120480,Cancelled,1,545.91,False,INR,White,545.91,2022-05,False
+651-4700025-9191131,05-08-22,Cancelled,Amazon,Amazon.in,Expedited,PJNE1476,J02881-BL-3XL,Saree,M,B0O233827,Shipped,1,2249.78,False,INR,Blue,2249.78,2022-05,True
+366-7360307-6492066,04-10-22,Shipped,Amazon,Amazon.in,Expedited,PJNE1239,SET1133-KR-XL,Blouse,S,B0X665621,Shipped,1,2192.76,False,INR,White,2192.76,2022-04,False
+131-5148725-4344717,04-28-22,Shipped,Amazon,Amazon.in,Expedited,PJNE2842,JNE2410-DR-XL,Blouse,3XL,B0I904150,In Transit,1,2400.76,False,INR,Black,2400.76,2022-04,False
+793-7296605-7654757,04-20-22,Shipped,Amazon,Amazon.in,Standard,SET517,J03264-TP-3XL,Western Dress,XXL,B0Z226935,Shipped,1,258.06,False,INR,Yellow,258.06,2022-04,False
+530-9224219-2770648,06-23-22,Shipped,Merchant,Non-Amazon,Expedited,PJNE2997,JNE1883-DR-3XL,Western Dress,XXL,B0U383201,Cancelled,1,1688.35,False,INR,Red,1688.35,2022-06,False
+561-5091349-8796514,05-11-22,Shipped,Merchant,Amazon.in,Expedited,J0844,SET968-TP-L,Saree,L,B0I725113,In Transit,1,2348.63,False,INR,Green,2348.63,2022-05,False
+807-8987516-9234615,04-10-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,SET1756,J01096-TP-3XL,kurta,XXL,B0L596249,In Transit,2,2645.46,False,INR,White,1322.73,2022-04,False
+838-4231028-6294016,05-15-22,Shipped,Amazon,Amazon.in,Standard,SET884,JNE3125-BL-L,Blouse,3XL,B0S897135,In Transit,1,904.23,False,INR,Green,904.23,2022-05,False
+229-5602180-1763626,05-07-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Standard,SET2712,SET520-KR-XXL,kurta,L,B0P601968,Cancelled,1,894.22,False,INR,Blue,894.22,2022-05,False
+175-1899411-3545556,05-02-22,Shipped,Amazon,Amazon.in,Standard,JNE1116,JNE2385-BL-XXL,Saree,XXL,B0Z748458,Delivered,1,2089.87,False,INR,Yellow,2089.87,2022-05,False
+682-2010496-2664863,05-27-22,Shipped,Amazon,Amazon.in,Expedited,JNE743,JNE811-KR-M,Top,S,B0N572387,Cancelled,1,1552.61,False,INR,Green,1552.61,2022-05,False
+339-5438490-4318855,05-06-22,Shipped,Merchant,Amazon.in,Expedited,SET3820,SET3485-DR-S,Blouse,S,B0F931131,In Transit,1,2176.1,False,INR,Red,2176.1,2022-05,False
+378-9396529-9284509,05-26-22,Shipped,Merchant,Amazon.in,Expedited,PJNE3108,SET2572-TP-S,Set,S,B0H807053,Shipped,1,898.41,False,INR,Red,898.41,2022-05,False
+552-5666692-4044882,06-12-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,JNE2025,SET1772-TP-L,Set,3XL,B0D999398,Delivered,2,1203.88,False,INR,Maroon,601.94,2022-06,False
+565-2477398-6276722,05-06-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,PJNE3642,J03478-KR-3XL,Blouse,XXL,B0O533321,Shipped,3,6210.6,False,INR,White,2070.2,2022-05,False
+373-3198037-5832327,06-18-22,Shipped,Merchant,Amazon.in,Expedited,JNE2680,J03373-DR-3XL,Saree,M,B0J677596,Shipped,1,1215.69,False,INR,Black,1215.69,2022-06,False
+952-3583206-9361353,04-28-22,Shipped,Merchant,Amazon.in,Expedited,PJNE2034,JNE1970-DR-XL,Saree,M,B0T632929,Delivered,3,3780.99,False,INR,Red,1260.33,2022-04,False
+389-6008935-9214801,05-23-22,Cancelled,Amazon,Amazon.in,Expedited,J02360,J01645-BL-L,Western Dress,M,B0W350405,Cancelled,3,4100.4,False,INR,Yellow,1366.8,2022-05,True
+495-3551903-9310235,04-05-22,Cancelled,Amazon,Amazon.in,Standard,J03662,JNE3680-BL-S,Western Dress,XXL,B0O116093,Delivered,2,3642.04,False,INR,Pink,1821.02,2022-04,True
+507-2347467-6512415,04-09-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,PJNE3673,J0247-KR-M,Top,3XL,B0V401338,Delivered,2,1617.1,False,INR,Yellow,808.55,2022-04,False
+810-6024207-1485654,04-12-22,Shipped,Amazon,Amazon.in,Expedited,J01635,SET696-DR-XXL,Saree,XL,B0S814919,Delivered,1,2205.93,False,INR,Black,2205.93,2022-04,False
+697-3401116-4895475,06-17-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,JNE3781,SET3791-TP-3XL,Saree,XXL,B0F177449,Cancelled,1,1770.21,False,INR,Red,1770.21,2022-06,False
+493-9106886-2789344,06-20-22,Shipped,Amazon,Amazon.in,Expedited,J02964,SET189-BL-L,Top,S,B0S819112,Shipped,2,2499.44,False,INR,Maroon,1249.72,2022-06,False
+751-4189885-5204819,05-06-22,Shipped,Amazon,Amazon.in,Standard,JNE1365,SET236-TP-3XL,Saree,M,B0C409445,In Transit,2,3190.5,False,INR,Pink,1595.25,2022-05,False
+613-5572250-3760597,04-25-22,Shipped,Merchant,Amazon.in,Standard,J03157,SET3394-KR-XL,kurta,S,B0E890785,Delivered,2,4429.72,False,INR,Yellow,2214.86,2022-04,False
+226-8630043-7183841,06-10-22,Shipped,Merchant,Amazon.in,Standard,J0543,J01057-BL-S,Western Dress,XXL,B0R443939,Delivered,1,1106.52,False,INR,Maroon,1106.52,2022-06,False
+138-6106390-9264869,06-28-22,Shipped,Amazon,Amazon.in,Standard,SET1691,SET1619-BL-XXL,Western Dress,3XL,B0X262029,Cancelled,1,467.35,False,INR,Maroon,467.35,2022-06,False
+322-8438733-8460758,06-17-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,J02330,J01569-KR-XL,Top,L,B0G228093,Cancelled,3,2527.2,False,INR,Green,842.4,2022-06,False
+349-3112652-4442778,06-21-22,Cancelled,Amazon,Amazon.in,Expedited,SET3430,JNE1445-DR-XXL,Blouse,S,B0I251716,Delivered,1,248.12,False,INR,Pink,248.12,2022-06,True
+907-4991829-6431983,04-14-22,Shipped,Amazon,Amazon.in,Expedited,PJNE2254,JNE3154-KR-XL,Blouse,XL,B0Y479625,Shipped,2,1004.3,False,INR,Green,502.15,2022-04,False
+408-8684678-1522621,06-17-22,Shipped - Delivered to Buyer,Amazon,Non-Amazon,Standard,PJNE2910,JNE2108-BL-S,Set,S,B0K737846,Delivered,2,4578.26,True,INR,Red,2289.13,2022-06,False
+711-9901266-5947563,06-18-22,Shipped,Merchant,Amazon.in,Expedited,JNE3593,J02766-DR-XL,Blouse,XL,B0H533914,In Transit,1,1836.95,False,INR,Yellow,1836.95,2022-06,False
+483-3560856-8956894,05-23-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,PJNE495,J03126-TP-M,Blouse,XXL,B0B714953,In Transit,1,1180.56,False,INR,Yellow,1180.56,2022-05,False
+838-1863121-5825620,05-15-22,Cancelled,Merchant,Amazon.in,Expedited,SET733,J02075-DR-S,Saree,L,B0R485415,Shipped,2,3849.3,False,INR,Green,1924.65,2022-05,True
+791-1440466-5487028,05-24-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Standard,J03874,SET1537-KR-M,Saree,M,B0S789275,Cancelled,1,1964.09,True,INR,Blue,1964.09,2022-05,False
+261-7208460-6228407,04-11-22,Shipped,Merchant,Amazon.in,Expedited,JNE3718,JNE737-DR-XXL,Blouse,S,B0V185544,In Transit,1,1064.25,False,INR,Yellow,1064.25,2022-04,False
+216-6791039-8212753,06-01-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,PJNE2258,J01363-KR-M,Ethnic Dress,XL,B0T157443,Shipped,1,827.28,False,INR,Green,827.28,2022-06,False
+864-8225192-3947669,04-17-22,Shipped,Amazon,Amazon.in,Standard,J0395,SET3629-KR-XL,Saree,S,B0O181644,In Transit,1,953.68,False,INR,Yellow,953.68,2022-04,False
+432-3883553-8719145,06-29-22,Shipped,Merchant,Amazon.in,Standard,SET1884,J01740-KR-XL,Blouse,L,B0X456005,Delivered,1,463.9,False,INR,Pink,463.9,2022-06,False
+894-6861544-6890476,04-09-22,Shipped,Amazon,Amazon.in,Expedited,SET810,J0726-KR-M,Ethnic Dress,3XL,B0P586490,Cancelled,1,1419.39,False,INR,White,1419.39,2022-04,False
+410-5608259-1942411,06-19-22,Shipped,Merchant,Amazon.in,Expedited,PJNE254,JNE1610-TP-S,Western Dress,3XL,B0C744883,Cancelled,1,356.06,False,INR,Blue,356.06,2022-06,False
+613-3531028-2038068,05-27-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,J03025,JNE2166-DR-S,Saree,M,B0W559022,Cancelled,1,631.95,False,INR,Pink,631.95,2022-05,False
+795-1878547-6614484,05-16-22,Cancelled,Amazon,Amazon.in,Expedited,PJNE1263,SET3064-DR-L,Western Dress,S,B0S795847,Delivered,3,3270.18,False,INR,Red,1090.06,2022-05,True
+186-6193922-7319630,06-22-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,JNE2746,J01834-TP-S,Blouse,L,B0J289019,Delivered,2,991.18,False,INR,Maroon,495.59,2022-06,False
+907-2696860-9517619,04-24-22,Shipped,Amazon,Amazon.in,Standard,SET2546,SET731-DR-M,kurta,3XL,B0Y755087,Delivered,4,2221.48,False,INR,Blue,555.37,2022-04,False
+391-8531761-4925917,05-22-22,Shipped,Amazon,Amazon.in,Standard,PJNE3802,JNE1606-BL-XL,Western Dress,L,B0Y500422,Cancelled,2,1490.64,False,INR,Green,745.32,2022-05,False
+480-2721170-9655523,06-16-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Standard,J01940,J0703-BL-S,kurta,M,B0O466566,Shipped,2,638.02,False,INR,Yellow,319.01,2022-06,False
+128-6346644-2662338,06-03-22,Shipped,Merchant,Amazon.in,Expedited,J03857,SET2951-DR-3XL,Western Dress,XL,B0O745239,Shipped,1,2486.41,False,INR,Blue,2486.41,2022-06,False
+640-8101036-2865405,05-02-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,SET1819,J03351-BL-S,kurta,S,B0P725726,Shipped,2,2922.5,False,INR,Green,1461.25,2022-05,False
+526-4142605-2436363,04-18-22,Shipped,Merchant,Amazon.in,Expedited,JNE1699,SET278-BL-L,Western Dress,L,B0X117031,In Transit,1,1613.06,False,INR,White,1613.06,2022-04,False
+874-6578736-3238241,04-30-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,SET3501,J02003-BL-3XL,Blouse,M,B0Z241403,Shipped,1,437.43,False,INR,Maroon,437.43,2022-04,False
+423-6202210-9646701,04-04-22,Shipped - Returned to Seller,Merchant,Non-Amazon,Expedited,J0249,J0882-TP-L,Western Dress,S,B0U448048,In Transit,1,2018.55,False,INR,White,2018.55,2022-04,True
+291-9324908-9347057,05-25-22,Shipped,Merchant,Amazon.in,Expedited,JNE3078,SET423-BL-XXL,Top,M,B0R408036,In Transit,2,4513.34,False,INR,White,2256.67,2022-05,False
+806-8447546-6897979,06-23-22,Shipped,Merchant,Amazon.in,Standard,J02618,SET1224-KR-S,Western Dress,3XL,B0U525942,In Transit,1,1585.03,False,INR,Pink,1585.03,2022-06,False
+229-2127988-4959345,04-03-22,Shipped,Merchant,Amazon.in,Standard,JNE2578,JNE2881-BL-L,kurta,L,B0O900152,Shipped,2,3517.2,False,INR,White,1758.6,2022-04,False
+853-4121368-9372568,05-20-22,Shipped,Merchant,Amazon.in,Expedited,J02983,SET978-TP-3XL,Western Dress,XL,B0G228594,Delivered,1,773.11,False,INR,Maroon,773.11,2022-05,False
+965-6361793-6828829,04-22-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,J03587,JNE3015-DR-L,Blouse,XXL,B0H227257,Delivered,1,400.92,False,INR,Green,400.92,2022-04,False
+664-3177199-2446455,06-02-22,Shipped,Amazon,Amazon.in,Standard,PJNE2253,SET3250-BL-XXL,Set,S,B0E432427,Shipped,1,1515.24,False,INR,White,1515.24,2022-06,False
+232-8258130-9436654,04-16-22,Shipped,Amazon,Amazon.in,Expedited,J0774,JNE1421-DR-L,Saree,XXL,B0J987025,Shipped,2,3341.06,False,INR,Red,1670.53,2022-04,False
+272-3586950-3872269,04-16-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,JNE432,JNE3985-TP-3XL,Blouse,M,B0Y699929,Cancelled,1,1426.0,False,INR,Blue,1426.0,2022-04,False
+350-7813102-5990112,06-02-22,Shipped,Merchant,Amazon.in,Expedited,PJNE1802,SET2002-DR-L,Blouse,XXL,B0E427766,In Transit,1,1675.39,False,INR,White,1675.39,2022-06,False
+347-8826111-3055576,05-21-22,Shipped,Merchant,Amazon.in,Expedited,JNE1288,SET3639-BL-M,kurta,M,B0K705748,In Transit,2,2766.9,False,INR,Pink,1383.45,2022-05,False
+192-7597509-9479950,06-02-22,Shipped - Delivered to Buyer,Merchant,Non-Amazon,Expedited,J0299,JNE1252-BL-XXL,Ethnic Dress,3XL,B0V593446,In Transit,1,2220.87,False,INR,Black,2220.87,2022-06,False
+474-1759041-7720644,05-25-22,Cancelled,Amazon,Amazon.in,Expedited,J0401,SET2165-BL-XXL,kurta,L,B0T813449,Shipped,2,3744.54,False,INR,Black,1872.27,2022-05,True
+873-3420404-4339637,05-20-22,Shipped - Returned to Seller,Merchant,Amazon.in,Expedited,SET3022,SET3393-BL-XXL,Western Dress,XL,B0E735710,Delivered,2,1957.8,False,INR,White,978.9,2022-05,True
+444-9511333-9551583,04-20-22,Shipped,Merchant,Amazon.in,Expedited,JNE1608,SET2859-KR-XL,Top,XXL,B0J935457,Shipped,4,7597.72,False,INR,Red,1899.43,2022-04,False
+152-9060593-3860717,06-22-22,Shipped,Merchant,Amazon.in,Expedited,JNE2445,J0550-DR-S,Saree,XL,B0K539122,Delivered,4,6117.96,False,INR,Green,1529.49,2022-06,False
+853-2044906-3316639,05-22-22,Cancelled,Amazon,Amazon.in,Standard,PJNE2252,SET1385-DR-XL,Ethnic Dress,XXL,B0K672808,In Transit,2,4632.4,False,INR,Red,2316.2,2022-05,True
+330-5993143-5848684,06-17-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,PJNE1528,J03924-TP-L,Top,S,B0S809489,Cancelled,1,765.99,False,INR,Yellow,765.99,2022-06,False
+831-2325893-6811015,05-14-22,Shipped,Merchant,Amazon.in,Standard,SET927,J01210-TP-M,Saree,S,B0T876880,Delivered,2,1734.08,False,INR,Green,867.04,2022-05,False
+202-3306314-1086930,06-20-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Standard,PJNE2055,J0916-TP-L,kurta,L,B0U162036,Shipped,1,1149.59,False,INR,Green,1149.59,2022-06,False
+279-8010946-3949245,06-07-22,Shipped - Returned to Seller,Amazon,Non-Amazon,Expedited,PJNE863,J03672-TP-S,Blouse,S,B0J695551,Shipped,2,4706.68,False,INR,White,2353.34,2022-06,True
+237-9459284-8852085,05-06-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,SET3094,SET2755-TP-3XL,Top,M,B0A872399,In Transit,4,5794.36,False,INR,Green,1448.59,2022-05,False
+627-6501696-2455218,04-22-22,Cancelled,Merchant,Amazon.in,Expedited,SET2055,SET3933-DR-S,Ethnic Dress,L,B0M346961,Cancelled,2,4524.4,False,INR,White,2262.2,2022-04,True
+809-4964499-2042273,05-08-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,J02927,JNE2716-TP-L,Ethnic Dress,XXL,B0H329772,Delivered,2,450.6,False,INR,Maroon,225.3,2022-05,False
+650-4664338-5151780,06-16-22,Shipped,Amazon,Amazon.in,Expedited,J0419,J0559-KR-XXL,Western Dress,XXL,B0G700521,Delivered,1,1462.24,False,INR,Maroon,1462.24,2022-06,False
+622-8473959-1933413,04-14-22,Shipped,Merchant,Amazon.in,Expedited,JNE2388,SET2855-TP-3XL,Blouse,S,B0M366817,Shipped,1,1540.24,False,INR,Black,1540.24,2022-04,False
+170-8920040-1532422,04-05-22,Pending,Merchant,Amazon.in,Standard,PJNE1633,SET1937-BL-XL,Top,S,B0V793939,Delivered,1,345.65,False,INR,White,345.65,2022-04,False
+328-1058272-1381435,04-15-22,Shipped,Merchant,Amazon.in,Standard,PJNE2278,SET3472-DR-M,kurta,XL,B0L262656,In Transit,4,4412.12,False,INR,Black,1103.03,2022-04,False
+116-5037710-4457475,04-04-22,Shipped - Returned to Seller,Amazon,Amazon.in,Expedited,JNE1102,J0281-BL-XL,Saree,M,B0R327823,Shipped,2,3226.64,False,INR,Red,1613.32,2022-04,True
+891-6379867-4974590,04-29-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,SET1793,SET1227-KR-XXL,Saree,XXL,B0X283640,Cancelled,3,4572.15,False,INR,Blue,1524.05,2022-04,False
+526-7849452-3503456,05-14-22,Shipped,Merchant,Amazon.in,Standard,PJNE1087,JNE1331-DR-XL,Blouse,S,B0R532723,Cancelled,2,4012.7,False,INR,Pink,2006.35,2022-05,False
+560-7225647-2551288,05-19-22,Shipped,Amazon,Amazon.in,Expedited,JNE3678,JNE870-DR-XL,kurta,M,B0K417915,Shipped,1,958.6,False,INR,Green,958.6,2022-05,False
+718-4431161-7654381,04-15-22,Shipped,Amazon,Amazon.in,Standard,PJNE2009,J02757-TP-L,Blouse,L,B0L637727,Cancelled,4,5202.08,False,INR,Maroon,1300.52,2022-04,False
+326-3448176-1272124,05-10-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,PJNE1309,JNE903-TP-M,kurta,XL,B0S973844,Delivered,1,1151.04,False,INR,White,1151.04,2022-05,False
+602-8731427-3822492,05-02-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,PJNE853,J02728-KR-XXL,Saree,S,B0C957730,Shipped,2,4843.94,False,INR,Yellow,2421.97,2022-05,False
+323-9484790-8650572,04-17-22,Shipped,Merchant,Amazon.in,Expedited,PJNE2800,SET164-KR-XXL,Saree,XXL,B0N112426,Shipped,1,355.33,False,INR,Red,355.33,2022-04,False
+925-4007598-2795437,06-07-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,J03439,SET1194-BL-S,Western Dress,L,B0M581294,Delivered,1,2069.26,False,INR,Green,2069.26,2022-06,False
+765-1531577-2568678,05-08-22,Pending,Merchant,Amazon.in,Expedited,JNE2708,JNE2978-DR-S,Blouse,XL,B0N776234,In Transit,2,768.84,False,INR,Black,384.42,2022-05,False
+680-8977571-5548220,06-06-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,J03783,J02408-KR-M,Set,L,B0A317221,Delivered,1,2271.93,False,INR,Yellow,2271.93,2022-06,False
+498-6565503-7439870,04-09-22,Cancelled,Amazon,Amazon.in,Expedited,JNE2151,J01516-KR-S,Western Dress,XL,B0H979414,Shipped,1,752.09,False,INR,Yellow,752.09,2022-04,True
+333-6969521-7298619,05-11-22,Shipped,Merchant,Amazon.in,Expedited,PJNE451,J01309-DR-3XL,Set,S,B0C380989,Delivered,1,2001.16,False,INR,Pink,2001.16,2022-05,False
+555-7038413-5525929,05-19-22,Shipped - Returned to Seller,Amazon,Amazon.in,Expedited,PJNE2381,J02198-BL-S,Western Dress,S,B0C471106,Shipped,1,409.5,False,INR,White,409.5,2022-05,True
+672-5072543-9742683,05-19-22,Shipped,Amazon,Amazon.in,Expedited,J01333,SET2119-DR-S,Set,M,B0N389366,Cancelled,1,1090.94,False,INR,Black,1090.94,2022-05,False
+731-4280754-8681643,05-16-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,PJNE1460,J01656-TP-XL,Western Dress,L,B0N955088,Delivered,3,5571.21,False,INR,Green,1857.07,2022-05,False
+852-9237735-5067204,05-31-22,Shipped,Merchant,Amazon.in,Standard,PJNE1595,JNE3917-DR-XXL,Western Dress,XXL,B0F814827,Shipped,1,1114.95,False,INR,Maroon,1114.95,2022-05,False
+938-7864256-9376917,06-29-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,SET3029,SET3332-BL-S,kurta,XL,B0T602514,Cancelled,1,869.06,False,INR,Yellow,869.06,2022-06,False
+649-2425760-2834914,06-08-22,Shipped - Returned to Seller,Amazon,Amazon.in,Expedited,JNE2406,J02874-BL-L,Set,XL,B0D111060,Shipped,2,2051.84,False,INR,Green,1025.92,2022-06,True
+612-3529080-6787592,05-27-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,JNE575,J0680-TP-L,Western Dress,L,B0O922366,Delivered,1,1975.39,False,INR,White,1975.39,2022-05,False
+407-1749657-2930810,05-30-22,Shipped,Amazon,Amazon.in,Expedited,SET3908,J01099-DR-XXL,Set,M,B0K687044,Cancelled,1,1801.56,False,INR,Green,1801.56,2022-05,False
+129-4310554-8542617,05-21-22,Shipped,Merchant,Amazon.in,Standard,SET1240,J03412-KR-XXL,Blouse,S,B0Z662968,Delivered,1,1672.1,False,INR,Green,1672.1,2022-05,False
+754-6258048-7520284,05-28-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,PJNE2628,JNE3433-TP-XXL,Set,XXL,B0C804758,Delivered,1,2183.06,False,INR,Green,2183.06,2022-05,False
+528-3313029-7437584,05-09-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,SET2372,JNE2105-TP-M,Set,M,B0K982885,Cancelled,1,1793.9,False,INR,White,1793.9,2022-05,False
+617-9304216-7864135,04-01-22,Pending,Merchant,Amazon.in,Standard,PJNE785,JNE2415-KR-M,Top,L,B0B388204,Delivered,1,2074.0,False,INR,Pink,2074.0,2022-04,False
+215-2916069-5494430,05-28-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,PJNE2337,JNE1841-KR-3XL,Ethnic Dress,3XL,B0Y359555,In Transit,2,3921.22,False,INR,Blue,1960.61,2022-05,False
+220-4975295-4521171,05-27-22,Shipped,Merchant,Amazon.in,Expedited,PJNE779,J0670-DR-M,Western Dress,S,B0S467856,In Transit,1,2077.48,False,INR,Pink,2077.48,2022-05,False
+626-2597613-3274804,05-11-22,Pending,Merchant,Amazon.in,Standard,SET2973,JNE1122-DR-3XL,Blouse,L,B0H898462,Cancelled,1,1516.29,False,INR,Red,1516.29,2022-05,False
+887-2561871-7758714,06-19-22,Cancelled,Merchant,Amazon.in,Standard,PJNE3992,SET1440-KR-3XL,Top,S,B0X580718,In Transit,1,372.69,False,INR,Yellow,372.69,2022-06,True
+390-6666591-3191007,04-27-22,Shipped,Merchant,Amazon.in,Standard,JNE288,JNE2664-BL-S,Top,S,B0F562721,Cancelled,2,2673.68,True,INR,Yellow,1336.84,2022-04,False
+995-5597283-2565985,04-25-22,Shipped,Merchant,Amazon.in,Expedited,SET312,SET2662-TP-3XL,Blouse,3XL,B0Y345517,Cancelled,3,6683.82,False,INR,Black,2227.94,2022-04,False
+796-8466983-1155809,03-31-22,Shipped,Amazon,Amazon.in,Standard,PJNE2942,JNE2056-KR-M,kurta,XL,B0C866260,Shipped,1,504.21,False,INR,White,504.21,2022-03,False
+756-3396676-2147756,05-08-22,Cancelled,Amazon,Amazon.in,Expedited,J03059,JNE2672-DR-XL,kurta,XXL,B0V563873,Delivered,1,2069.75,False,INR,Black,2069.75,2022-05,True
+539-6276495-3345961,04-17-22,Shipped,Amazon,Amazon.in,Expedited,J03290,J0209-TP-M,Saree,XXL,B0T634273,Delivered,1,1878.02,False,INR,Red,1878.02,2022-04,False
+495-2891524-5044680,06-21-22,Shipped,Merchant,Amazon.in,Expedited,JNE1579,SET640-BL-XXL,Set,XL,B0L672896,Delivered,2,4049.38,False,INR,Black,2024.69,2022-06,False
+161-7676912-9499515,04-02-22,Shipped,Merchant,Amazon.in,Expedited,PJNE1834,J01747-KR-3XL,Ethnic Dress,XXL,B0R745972,Delivered,1,802.03,False,INR,Red,802.03,2022-04,False
+434-7555386-2109227,04-10-22,Shipped,Merchant,Amazon.in,Standard,SET337,JNE453-BL-S,Ethnic Dress,XL,B0T738407,Shipped,3,7319.76,False,INR,Pink,2439.92,2022-04,False
+455-9774573-9677559,04-15-22,Shipped,Merchant,Amazon.in,Expedited,J03102,JNE3259-KR-L,Set,XL,B0I649300,Shipped,2,3624.9,False,INR,Black,1812.45,2022-04,False
+270-7168777-3639223,06-02-22,Cancelled,Merchant,Amazon.in,Standard,JNE1035,J02184-KR-S,Top,S,B0H148215,Cancelled,1,326.51,False,INR,Pink,326.51,2022-06,True
+771-8035849-4766741,04-22-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,J01211,JNE2441-TP-S,Saree,XXL,B0V155230,Delivered,1,2046.17,False,INR,Blue,2046.17,2022-04,False
+418-6491198-2449308,05-21-22,Cancelled,Merchant,Amazon.in,Expedited,J03129,J01093-BL-L,Set,XXL,B0P910143,Delivered,2,4381.74,False,INR,Green,2190.87,2022-05,True
+751-1160974-6620658,04-19-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,J0525,JNE2270-DR-XL,Set,XL,B0B249289,In Transit,3,761.97,False,INR,Green,253.99,2022-04,False
+186-2603516-9479670,06-05-22,Pending,Amazon,Amazon.in,Expedited,JNE1881,J0635-DR-L,Top,L,B0K939717,Cancelled,2,2111.46,False,INR,White,1055.73,2022-06,False
+898-2828260-3607356,05-10-22,Shipped,Amazon,Amazon.in,Expedited,PJNE594,J01567-DR-XL,Top,L,B0O377880,Shipped,1,370.78,False,INR,Red,370.78,2022-05,False
+251-2530298-5164420,06-29-22,Cancelled,Merchant,Amazon.in,Expedited,J01165,JNE227-BL-XL,Blouse,XXL,B0X676843,Delivered,1,693.55,False,INR,Black,693.55,2022-06,True
+233-4324120-7720647,04-17-22,Pending,Merchant,Amazon.in,Standard,JNE2485,J01160-KR-S,Set,S,B0G777366,Cancelled,1,2108.86,False,INR,Black,2108.86,2022-04,False
+687-8267158-7626978,05-12-22,Shipped,Merchant,Amazon.in,Expedited,SET1549,JNE3820-DR-L,Set,L,B0O255851,Shipped,1,1259.29,False,INR,Green,1259.29,2022-05,False
+189-5693862-7425930,06-21-22,Shipped,Amazon,Amazon.in,Expedited,SET2683,J03355-KR-XL,Western Dress,3XL,B0L602985,Cancelled,1,2229.39,False,INR,White,2229.39,2022-06,False
+930-5713268-1982997,05-19-22,Shipped,Merchant,Amazon.in,Standard,SET753,JNE1115-DR-L,Western Dress,XXL,B0Z872863,Shipped,1,932.42,False,INR,Green,932.42,2022-05,False
+965-3914404-3954473,06-12-22,Shipped - Returned to Seller,Amazon,Amazon.in,Standard,J03843,J0215-TP-XXL,Saree,XXL,B0E690462,Delivered,4,4369.48,False,INR,Maroon,1092.37,2022-06,True
+716-4671004-1334336,06-08-22,Shipped,Merchant,Amazon.in,Standard,SET3403,JNE1495-DR-L,Western Dress,S,B0A254887,Delivered,1,286.32,False,INR,White,286.32,2022-06,False
+444-6062779-6412383,04-09-22,Shipped - Delivered to Buyer,Amazon,Non-Amazon,Standard,PJNE3343,J02095-TP-M,Western Dress,3XL,B0R827250,In Transit,2,3443.84,False,INR,Pink,1721.92,2022-04,False
+101-7569981-1543292,05-18-22,Shipped,Amazon,Amazon.in,Standard,SET2719,J0526-BL-M,Western Dress,L,B0X181586,Delivered,2,1752.78,False,INR,White,876.39,2022-05,False
+754-6632941-8493206,04-21-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,JNE1535,SET3323-KR-3XL,Blouse,S,B0B504684,Cancelled,2,806.14,False,INR,Pink,403.07,2022-04,False
+948-9044494-4784650,05-22-22,Shipped,Amazon,Amazon.in,Standard,JNE1307,JNE1405-TP-S,Top,S,B0K278368,Cancelled,2,2013.66,False,INR,Black,1006.83,2022-05,False
+821-1519979-8236404,06-09-22,Shipped - Returned to Seller,Amazon,Amazon.in,Expedited,JNE514,SET941-DR-XL,Set,3XL,B0R857111,In Transit,1,2465.14,False,INR,Red,2465.14,2022-06,True
+257-1914439-7053704,04-30-22,Cancelled,Amazon,Amazon.in,Expedited,PJNE917,JNE205-DR-M,Set,3XL,B0J185916,Cancelled,1,1514.07,False,INR,Red,1514.07,2022-04,True
+657-7501626-4101792,05-20-22,Shipped,Merchant,Amazon.in,Expedited,PJNE282,SET1901-BL-L,Top,M,B0I691655,Shipped,1,1719.39,False,INR,Black,1719.39,2022-05,False
+703-4817030-2023137,04-10-22,Pending,Merchant,Amazon.in,Expedited,PJNE2445,JNE2050-TP-S,Blouse,XL,B0W136415,Delivered,1,1444.33,False,INR,Maroon,1444.33,2022-04,False
+533-2314805-8304686,04-22-22,Shipped,Amazon,Non-Amazon,Expedited,J01409,J03844-KR-S,kurta,XL,B0R516656,In Transit,4,8233.84,False,INR,Maroon,2058.46,2022-04,False
+215-7953189-3510581,04-01-22,Cancelled,Amazon,Amazon.in,Expedited,JNE3888,JNE2404-KR-L,Saree,XXL,B0L530849,In Transit,2,3100.86,False,INR,Maroon,1550.43,2022-04,True
+733-7739741-1650662,06-12-22,Shipped,Merchant,Amazon.in,Expedited,SET301,J02046-TP-L,Ethnic Dress,S,B0K957091,In Transit,1,595.06,False,INR,Maroon,595.06,2022-06,False
+861-8434162-6383277,06-28-22,Shipped,Merchant,Amazon.in,Expedited,JNE869,SET965-BL-3XL,Blouse,XL,B0Y641590,In Transit,1,2197.47,False,INR,Pink,2197.47,2022-06,False
+636-1485669-3914829,04-08-22,Cancelled,Amazon,Amazon.in,Expedited,JNE1121,JNE1969-KR-L,Western Dress,3XL,B0G387286,In Transit,2,2253.58,False,INR,Yellow,1126.79,2022-04,True
+556-3979359-8962169,06-20-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,J03167,J0470-TP-S,Set,XL,B0B270820,Delivered,2,1510.92,False,INR,Green,755.46,2022-06,False
+899-1149283-8954031,06-25-22,Shipped,Amazon,Amazon.in,Expedited,JNE1016,SET2591-TP-3XL,kurta,3XL,B0U388755,Cancelled,1,1140.87,False,INR,White,1140.87,2022-06,False
+738-7663113-2716512,05-28-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,J02399,J02532-TP-L,Western Dress,3XL,B0D605139,Shipped,1,893.93,False,INR,Red,893.93,2022-05,False
+767-6012883-4160157,06-20-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,JNE3399,J01755-TP-3XL,Western Dress,M,B0X126691,Cancelled,2,1599.28,False,INR,Red,799.64,2022-06,False
+685-4186247-6757387,05-23-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,PJNE3813,J01568-TP-M,Top,3XL,B0R289934,In Transit,1,280.23,False,INR,Pink,280.23,2022-05,False
+796-6630978-2498202,05-03-22,Shipped,Amazon,Amazon.in,Standard,J01822,SET1622-TP-XXL,Blouse,L,B0O992562,Shipped,2,3907.42,False,INR,Black,1953.71,2022-05,False
+405-7930789-1907009,05-30-22,Shipped,Amazon,Amazon.in,Expedited,PJNE2432,SET686-TP-3XL,kurta,M,B0Y184736,Cancelled,1,2194.24,False,INR,Pink,2194.24,2022-05,False
+892-3828735-3658100,05-10-22,Shipped,Merchant,Amazon.in,Standard,SET2616,SET2694-BL-XL,Blouse,XL,B0P501936,Shipped,1,1238.72,True,INR,Green,1238.72,2022-05,False
+118-1069186-5174559,05-17-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,SET520,SET2161-TP-M,Set,S,B0B412687,In Transit,3,5819.25,False,INR,White,1939.75,2022-05,False
+467-4161264-3766286,05-25-22,Shipped - Returned to Seller,Merchant,Amazon.in,Expedited,SET965,J0189-DR-S,Blouse,L,B0W782141,Shipped,4,3949.16,False,INR,Red,987.29,2022-05,True
+769-1331211-1809249,06-07-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,J02043,J0727-DR-3XL,Ethnic Dress,3XL,B0U109756,In Transit,1,2486.76,False,INR,Black,2486.76,2022-06,False
+950-2760168-9582968,06-23-22,Shipped,Amazon,Amazon.in,Standard,PJNE913,J0918-TP-XXL,Ethnic Dress,M,B0L837606,Cancelled,1,1591.96,False,INR,Blue,1591.96,2022-06,False
+340-1045936-1213899,06-09-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Standard,PJNE710,JNE3292-KR-3XL,Top,3XL,B0D368322,Delivered,3,5345.61,False,INR,Red,1781.87,2022-06,False
+972-5874908-7043399,05-03-22,Cancelled,Merchant,Amazon.in,Expedited,JNE139,JNE2817-DR-L,Top,L,B0O752011,In Transit,1,2069.31,False,INR,Black,2069.31,2022-05,True
+567-5560602-7471232,05-17-22,Shipped,Merchant,Amazon.in,Expedited,SET563,JNE2951-KR-M,Saree,S,B0N719446,Cancelled,1,460.81,False,INR,Maroon,460.81,2022-05,False
+800-3192032-9104731,04-23-22,Shipped,Merchant,Amazon.in,Expedited,JNE359,SET2782-TP-S,Ethnic Dress,3XL,B0V650311,Delivered,1,1023.78,False,INR,White,1023.78,2022-04,False
+844-5170429-9085438,06-05-22,Shipped,Merchant,Amazon.in,Expedited,SET3536,J03753-KR-S,Ethnic Dress,3XL,B0F630126,Cancelled,2,3241.9,False,INR,Pink,1620.95,2022-06,False
+151-9504862-4736395,04-09-22,Pending,Merchant,Amazon.in,Expedited,PJNE1919,J01935-KR-XL,Saree,XL,B0K224473,Cancelled,1,753.05,False,INR,Blue,753.05,2022-04,False
+193-6110305-9528492,04-13-22,Shipped,Amazon,Amazon.in,Expedited,J01588,JNE3444-DR-XL,Top,L,B0R904694,Cancelled,1,1480.4,False,INR,White,1480.4,2022-04,False
+463-5898671-9757456,05-27-22,Shipped,Merchant,Amazon.in,Expedited,SET2116,JNE3466-BL-S,Set,L,B0T305438,Delivered,1,1714.49,False,INR,Yellow,1714.49,2022-05,False
+875-7953658-1780146,04-27-22,Shipped,Amazon,Amazon.in,Expedited,SET2143,JNE2272-KR-XXL,Top,XL,B0S606390,Delivered,2,1274.66,False,INR,Pink,637.33,2022-04,False
+616-7453568-8024028,04-16-22,Shipped - Returned to Seller,Amazon,Amazon.in,Standard,J01954,JNE665-BL-XXL,Set,3XL,B0X637179,In Transit,1,1580.26,False,INR,White,1580.26,2022-04,True
+803-6793064-3225862,06-09-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Standard,J03009,JNE3216-TP-XXL,Blouse,XL,B0S698357,Cancelled,1,681.34,False,INR,Red,681.34,2022-06,False
+154-1949670-4353806,05-24-22,Shipped,Merchant,Amazon.in,Expedited,J02899,SET699-KR-3XL,Saree,L,B0G890200,Shipped,1,443.88,False,INR,Maroon,443.88,2022-05,False
+860-7524435-4986190,04-13-22,Cancelled,Merchant,Amazon.in,Expedited,PJNE1687,SET3328-TP-XXL,Ethnic Dress,S,B0A879794,In Transit,2,3799.66,False,INR,Maroon,1899.83,2022-04,True
+659-4296204-4246352,04-28-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,JNE865,JNE3110-KR-XL,Blouse,S,B0N392670,In Transit,2,3377.1,False,INR,Red,1688.55,2022-04,False
+430-1853212-6052539,03-31-22,Shipped,Merchant,Amazon.in,Expedited,JNE3311,J01401-DR-M,Western Dress,XXL,B0C924451,Delivered,1,2355.24,False,INR,Yellow,2355.24,2022-03,False
+469-5925360-4664903,04-11-22,Shipped,Merchant,Non-Amazon,Standard,JNE569,J01517-BL-M,Western Dress,3XL,B0T751303,Delivered,1,689.71,False,INR,White,689.71,2022-04,False
+389-1414493-9671603,05-18-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,PJNE279,SET3779-DR-L,Saree,XXL,B0C200617,Delivered,3,3259.53,False,INR,Blue,1086.51,2022-05,False
+801-8117053-2743602,06-19-22,Shipped,Amazon,Amazon.in,Standard,PJNE2748,JNE3159-DR-S,Set,XL,B0W447828,Shipped,1,1646.88,False,INR,Blue,1646.88,2022-06,False
+364-7838943-7510106,04-22-22,Cancelled,Merchant,Amazon.in,Expedited,JNE1695,J0584-KR-3XL,Saree,3XL,B0T166309,Shipped,1,361.02,False,INR,Black,361.02,2022-04,True
+188-5723078-8342987,05-15-22,Shipped,Merchant,Amazon.in,Expedited,PJNE740,J01000-DR-3XL,Ethnic Dress,XL,B0Z936223,In Transit,1,2008.85,False,INR,Pink,2008.85,2022-05,False
+763-7260091-1187069,05-08-22,Cancelled,Amazon,Amazon.in,Expedited,PJNE2300,J03978-KR-L,Blouse,M,B0X877446,In Transit,2,4838.68,False,INR,Pink,2419.34,2022-05,True
+285-1912484-8738745,04-20-22,Shipped,Amazon,Amazon.in,Expedited,JNE908,J02478-BL-L,kurta,L,B0E803904,Delivered,1,2118.92,False,INR,Black,2118.92,2022-04,False
+810-3556763-7115185,04-24-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,J01108,JNE3017-BL-L,Western Dress,L,B0E812591,In Transit,1,954.2,False,INR,Maroon,954.2,2022-04,False
+761-2375290-5707954,05-27-22,Shipped,Amazon,Amazon.in,Expedited,JNE3079,JNE3754-KR-XXL,Western Dress,3XL,B0A952117,Cancelled,2,2638.06,False,INR,Green,1319.03,2022-05,False
+769-3493647-7137418,04-04-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,J0648,SET2152-KR-XL,Ethnic Dress,L,B0Q111106,Delivered,1,2255.17,False,INR,Pink,2255.17,2022-04,False
+775-3452813-9111841,06-04-22,Shipped - Returned to Seller,Merchant,Amazon.in,Standard,SET357,SET1613-DR-S,kurta,3XL,B0G643042,In Transit,1,611.03,False,INR,Maroon,611.03,2022-06,True
+633-5588489-5417710,04-05-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,JNE2216,SET1641-DR-XXL,Set,XL,B0L956934,In Transit,4,3777.44,False,INR,Maroon,944.36,2022-04,False
+178-9632570-5711201,06-16-22,Shipped,Amazon,Amazon.in,Expedited,JNE2807,JNE1798-TP-3XL,Set,S,B0P808029,Cancelled,1,518.63,False,INR,Pink,518.63,2022-06,False
+706-3703298-3260294,06-21-22,Shipped,Amazon,Amazon.in,Expedited,SET1157,JNE2216-BL-XXL,Saree,XXL,B0U119524,In Transit,1,759.44,False,INR,Green,759.44,2022-06,False
+950-7891524-3394312,05-27-22,Shipped,Amazon,Amazon.in,Expedited,SET3066,J01503-BL-XXL,Ethnic Dress,XXL,B0C340977,Cancelled,4,8775.2,False,INR,Black,2193.8,2022-05,False
+946-3509220-2615622,04-02-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,JNE3695,J02161-KR-S,kurta,XL,B0V236659,Shipped,1,2290.48,False,INR,Yellow,2290.48,2022-04,False
+334-9088689-7396087,06-05-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,JNE1842,JNE1142-BL-M,Top,S,B0J727354,Cancelled,1,298.91,False,INR,Blue,298.91,2022-06,False
+107-7291957-4446353,06-29-22,Shipped,Merchant,Amazon.in,Expedited,PJNE2768,J01138-TP-XXL,Blouse,XL,B0S483405,In Transit,2,3056.74,False,INR,Yellow,1528.37,2022-06,False
+672-9116148-5257682,04-26-22,Shipped,Merchant,Amazon.in,Standard,PJNE3113,JNE3602-KR-3XL,Top,M,B0O921149,Delivered,1,1481.39,False,INR,Yellow,1481.39,2022-04,False
+264-7528076-1088762,05-13-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,PJNE461,JNE1177-DR-L,Saree,S,B0T139589,Cancelled,1,1802.23,False,INR,Yellow,1802.23,2022-05,False
+892-3940561-9294125,06-17-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,J0897,JNE3311-DR-XXL,Blouse,M,B0V137812,In Transit,1,1835.69,False,INR,Blue,1835.69,2022-06,False
+504-7802338-4360650,04-20-22,Shipped,Amazon,Amazon.in,Expedited,JNE2351,SET3074-TP-L,Set,L,B0H735818,Delivered,4,7969.0,False,INR,Yellow,1992.25,2022-04,False
+174-9441777-5936726,06-12-22,Shipped,Merchant,Amazon.in,Standard,J03688,J03430-TP-3XL,Set,XL,B0M690525,Cancelled,1,1135.41,False,INR,White,1135.41,2022-06,False
+219-5325497-2133372,05-28-22,Shipped,Merchant,Amazon.in,Standard,SET3377,SET1789-TP-XXL,Blouse,XXL,B0A834861,In Transit,1,1548.7,False,INR,Black,1548.7,2022-05,False
+282-8995273-6265911,05-21-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,SET3979,J02898-DR-XL,Blouse,3XL,B0G346269,Delivered,2,1971.16,False,INR,Green,985.58,2022-05,False
+897-2789949-3011227,04-29-22,Shipped,Amazon,Amazon.in,Expedited,JNE3230,J0273-BL-L,kurta,XXL,B0K616256,In Transit,2,4245.14,False,INR,Red,2122.57,2022-04,False
+533-9024879-1546310,05-20-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,SET1972,JNE2960-BL-L,kurta,3XL,B0A112394,Delivered,2,987.94,False,INR,Black,493.97,2022-05,False
+342-5519920-8907862,05-11-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,SET1816,J03180-TP-L,Western Dress,XL,B0I572623,Delivered,1,796.31,False,INR,Green,796.31,2022-05,False
+490-4289394-3446851,04-12-22,Shipped,Amazon,Amazon.in,Expedited,PJNE2146,JNE3758-TP-XL,Blouse,L,B0I689444,Shipped,1,741.35,False,INR,Pink,741.35,2022-04,False
+560-6614605-5358202,04-07-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,J01509,JNE1786-KR-L,kurta,3XL,B0T308622,Delivered,2,2590.08,False,INR,Red,1295.04,2022-04,False
+180-7393310-5807067,05-15-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,SET2723,SET1827-BL-S,Western Dress,S,B0F460317,Delivered,2,2640.48,False,INR,Red,1320.24,2022-05,False
+899-7092894-9739850,06-29-22,Shipped - Returned to Seller,Merchant,Amazon.in,Expedited,JNE612,J01061-TP-3XL,Western Dress,3XL,B0X183953,Delivered,1,1108.55,False,INR,Black,1108.55,2022-06,True
+889-7660764-9790972,04-12-22,Shipped,Amazon,Amazon.in,Expedited,JNE2782,SET1367-DR-M,Set,3XL,B0J564687,Delivered,3,3861.99,False,INR,Pink,1287.33,2022-04,False
+587-8838205-5570355,04-03-22,Shipped,Merchant,Amazon.in,Standard,SET2520,J01970-BL-XXL,Set,3XL,B0U659713,In Transit,2,4355.7,False,INR,Maroon,2177.85,2022-04,False
+366-3612506-6093108,06-08-22,Shipped,Amazon,Amazon.in,Standard,SET1508,SET2021-KR-3XL,kurta,XL,B0Y600241,In Transit,2,2430.56,True,INR,Yellow,1215.28,2022-06,False
+521-8333427-7622840,05-07-22,Shipped,Amazon,Amazon.in,Standard,PJNE3493,SET1003-TP-S,Ethnic Dress,XL,B0U351198,In Transit,1,215.6,False,INR,Red,215.6,2022-05,False
+752-8639388-8596173,05-22-22,Shipped,Merchant,Amazon.in,Expedited,J0179,JNE303-KR-M,kurta,S,B0J382271,Delivered,2,1237.08,False,INR,Blue,618.54,2022-05,False
+419-9361693-7231009,04-29-22,Shipped,Merchant,Amazon.in,Expedited,JNE3555,JNE329-TP-XL,Set,S,B0R592984,Delivered,1,1334.23,False,INR,Red,1334.23,2022-04,False
+494-8431651-5146693,05-18-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Standard,JNE2234,J0953-BL-XL,Saree,3XL,B0J438756,Delivered,1,2440.58,False,INR,Blue,2440.58,2022-05,False
+469-1873883-4653880,06-09-22,Shipped,Amazon,Amazon.in,Expedited,JNE785,SET2494-KR-XL,Ethnic Dress,M,B0A144033,Cancelled,1,1305.83,False,INR,Pink,1305.83,2022-06,False
+733-6677780-2007511,05-17-22,Shipped,Amazon,Amazon.in,Expedited,JNE615,SET1053-TP-XXL,Saree,3XL,B0Y464189,Cancelled,1,561.71,False,INR,Blue,561.71,2022-05,False
+596-8340032-5944490,06-27-22,Shipped - Returned to Seller,Merchant,Amazon.in,Expedited,J01425,J02018-TP-XXL,Top,XXL,B0F172222,Delivered,1,508.88,False,INR,Red,508.88,2022-06,True
+851-4112748-1314067,06-08-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,JNE2796,J03454-BL-M,Western Dress,XXL,B0V621718,Delivered,1,1983.61,False,INR,White,1983.61,2022-06,False
+144-3177250-3997061,05-22-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,JNE230,J02728-BL-3XL,Blouse,XL,B0Q754280,In Transit,1,420.39,True,INR,Green,420.39,2022-05,False
+603-2341452-8852729,06-16-22,Shipped,Amazon,Amazon.in,Standard,PJNE3467,SET3353-KR-XXL,Blouse,L,B0Q142627,Shipped,1,2338.49,False,INR,Black,2338.49,2022-06,False
+294-4240006-9828037,04-27-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Standard,PJNE3156,JNE3238-TP-3XL,Ethnic Dress,XL,B0W797557,Cancelled,1,1866.9,False,INR,Pink,1866.9,2022-04,False
+714-8432510-6911017,04-23-22,Shipped,Merchant,Amazon.in,Standard,J01788,J01863-TP-XXL,Ethnic Dress,M,B0S672130,Delivered,1,975.28,False,INR,Red,975.28,2022-04,False
+391-1273509-9684044,05-16-22,Shipped - Delivered to Buyer,Amazon,Non-Amazon,Expedited,J01008,JNE3605-TP-S,Top,3XL,B0I680557,Delivered,1,1112.31,False,INR,Maroon,1112.31,2022-05,False
+338-5299058-6038238,05-15-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,SET3107,JNE3063-TP-XL,kurta,M,B0P965814,Shipped,1,1043.29,False,INR,Red,1043.29,2022-05,False
+889-6610127-6837300,04-04-22,Cancelled,Merchant,Amazon.in,Standard,SET3162,J03579-KR-3XL,Blouse,3XL,B0M156757,In Transit,2,2153.12,False,INR,White,1076.56,2022-04,True
+151-7591477-8476199,06-08-22,Shipped,Amazon,Amazon.in,Expedited,PJNE706,JNE1476-KR-XL,Ethnic Dress,XXL,B0X151706,Cancelled,1,1354.52,False,INR,Yellow,1354.52,2022-06,False
+672-4323709-9184951,06-03-22,Shipped,Merchant,Amazon.in,Expedited,SET1092,JNE1190-BL-L,Top,3XL,B0S193946,Shipped,2,997.72,False,INR,Yellow,498.86,2022-06,False
+888-6114011-3839632,05-16-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,PJNE2652,JNE1904-KR-M,Western Dress,M,B0V491979,Delivered,1,991.41,False,INR,Black,991.41,2022-05,False
+989-5826554-1230406,04-14-22,Shipped - Returned to Seller,Merchant,Amazon.in,Expedited,PJNE2029,JNE1459-DR-3XL,Blouse,XXL,B0G313701,In Transit,1,2381.56,False,INR,Pink,2381.56,2022-04,True
+639-1729507-5285846,06-27-22,Shipped - Returned to Seller,Amazon,Amazon.in,Expedited,J0317,SET2781-KR-S,Blouse,XL,B0V384489,In Transit,2,2130.4,False,INR,Blue,1065.2,2022-06,True
+620-2671072-6292472,05-07-22,Pending,Merchant,Amazon.in,Expedited,SET914,J01975-KR-S,Saree,M,B0Q419739,In Transit,2,2176.0,False,INR,Pink,1088.0,2022-05,False
+613-5628469-2040350,04-02-22,Shipped,Merchant,Amazon.in,Standard,JNE3967,J03987-TP-M,Western Dress,M,B0K511929,Delivered,2,2032.74,False,INR,Yellow,1016.37,2022-04,False
+346-3562705-8154895,06-05-22,Shipped,Merchant,Amazon.in,Expedited,SET946,J0667-DR-M,Blouse,L,B0W839389,Delivered,1,1637.71,False,INR,Pink,1637.71,2022-06,False
+836-2986209-4089276,06-22-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,JNE3235,SET3705-BL-XL,Ethnic Dress,L,B0O881828,In Transit,3,2787.72,False,INR,Green,929.24,2022-06,False
+373-4874049-4895376,04-13-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,PJNE649,J03565-BL-3XL,kurta,3XL,B0L292913,Cancelled,1,1952.63,False,INR,Pink,1952.63,2022-04,False
+376-7929728-4733840,04-20-22,Pending,Amazon,Amazon.in,Expedited,PJNE3651,J02106-TP-XL,kurta,M,B0N524533,Shipped,1,1138.76,False,INR,Yellow,1138.76,2022-04,False
+637-1646123-9735042,05-10-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Standard,JNE3695,JNE2224-BL-3XL,Top,S,B0R506216,Shipped,1,1906.68,False,INR,Maroon,1906.68,2022-05,False
+401-1915141-9673311,05-20-22,Shipped,Amazon,Amazon.in,Expedited,JNE3059,J0563-DR-XXL,Western Dress,3XL,B0R241879,Cancelled,2,1713.2,False,INR,Maroon,856.6,2022-05,False
+565-2512963-5195684,04-03-22,Shipped - Returned to Seller,Merchant,Amazon.in,Standard,SET3042,J0606-KR-S,kurta,3XL,B0O764873,In Transit,1,2261.22,False,INR,Yellow,2261.22,2022-04,True
+886-3866974-6623607,06-04-22,Shipped,Amazon,Amazon.in,Expedited,JNE1818,SET1367-BL-L,Ethnic Dress,3XL,B0F223264,Delivered,3,3209.88,False,INR,Blue,1069.96,2022-06,False
+656-1096478-9278999,06-18-22,Cancelled,Amazon,Amazon.in,Expedited,PJNE1779,SET425-KR-M,Saree,XXL,B0I749871,Delivered,1,1253.88,True,INR,Pink,1253.88,2022-06,True
+691-6007018-6555122,04-07-22,Shipped,Amazon,Amazon.in,Expedited,SET760,J01264-DR-XL,Blouse,3XL,B0S477685,Shipped,1,533.36,False,INR,Red,533.36,2022-04,False
+963-2089275-5912917,05-11-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,J01448,J01794-DR-3XL,Western Dress,M,B0T161010,Shipped,3,6256.83,False,INR,Black,2085.61,2022-05,False
+394-8164770-6309796,05-31-22,Pending,Merchant,Amazon.in,Standard,J03897,JNE2616-BL-XXL,Blouse,3XL,B0U621919,Cancelled,2,4693.9,False,INR,Green,2346.95,2022-05,False
+740-2978465-4478434,06-29-22,Shipped,Merchant,Amazon.in,Expedited,SET146,J0924-TP-L,Western Dress,S,B0J414870,In Transit,4,810.56,False,INR,Black,202.64,2022-06,False
+129-3946567-4255041,06-26-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,PJNE3852,SET3365-KR-3XL,Western Dress,M,B0P262934,Cancelled,1,1865.11,False,INR,White,1865.11,2022-06,False
+633-6022154-6293259,05-29-22,Shipped,Amazon,Amazon.in,Expedited,J0371,JNE1248-KR-L,Saree,XL,B0U660226,Delivered,2,4665.84,False,INR,Yellow,2332.92,2022-05,False
+978-6276424-1530633,04-23-22,Shipped,Merchant,Amazon.in,Expedited,SET1622,SET3497-TP-M,Ethnic Dress,XXL,B0J283514,Shipped,1,1998.39,False,INR,Blue,1998.39,2022-04,False
+612-3584996-4191222,04-25-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,J03276,SET686-KR-XXL,Set,3XL,B0E315154,Shipped,1,256.35,False,INR,Black,256.35,2022-04,False
+189-6591674-8832877,03-31-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Standard,J0192,J03206-TP-3XL,Western Dress,M,B0K310297,Delivered,3,5337.66,False,INR,White,1779.22,2022-03,False
+115-9624506-2717572,05-26-22,Shipped,Amazon,Amazon.in,Expedited,J0679,J03393-TP-XXL,Blouse,M,B0F174703,In Transit,1,542.44,False,INR,White,542.44,2022-05,False
+151-2777158-7435734,06-08-22,Shipped - Returned to Seller,Amazon,Amazon.in,Expedited,PJNE2624,SET1379-TP-M,Top,3XL,B0Y803458,Shipped,1,265.68,False,INR,Maroon,265.68,2022-06,True
+199-8643434-6207508,06-11-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,SET3627,J01156-TP-XL,kurta,M,B0W797492,In Transit,1,2044.41,False,INR,White,2044.41,2022-06,False
+572-3865574-5735492,05-28-22,Shipped,Merchant,Amazon.in,Expedited,JNE1761,J03363-KR-L,Top,XXL,B0U174369,In Transit,1,1292.27,False,INR,Yellow,1292.27,2022-05,False
+593-7439371-2108301,06-14-22,Shipped,Merchant,Amazon.in,Standard,PJNE3312,SET2423-TP-XXL,Top,3XL,B0H281493,Shipped,1,759.49,False,INR,Maroon,759.49,2022-06,False
+555-3955709-6167981,04-14-22,Shipped,Merchant,Amazon.in,Expedited,PJNE1441,SET2741-KR-S,Ethnic Dress,M,B0E708979,Shipped,1,947.37,False,INR,Pink,947.37,2022-04,False
+310-6311628-6028724,05-27-22,Shipped,Merchant,Amazon.in,Standard,J0465,J0133-BL-M,Ethnic Dress,L,B0B487158,Shipped,1,1614.82,True,INR,White,1614.82,2022-05,False
+704-7614724-6337290,04-14-22,Shipped,Merchant,Amazon.in,Expedited,SET2813,JNE2045-DR-M,Saree,XXL,B0M984293,In Transit,1,270.72,False,INR,Pink,270.72,2022-04,False
+116-3415850-9165493,05-06-22,Shipped,Merchant,Non-Amazon,Expedited,SET2730,SET3623-BL-3XL,Saree,XXL,B0N753523,Delivered,2,1015.68,False,INR,Yellow,507.84,2022-05,False
+719-1124654-9357686,06-09-22,Shipped,Amazon,Amazon.in,Expedited,J0237,JNE2427-BL-3XL,Saree,L,B0D708455,Cancelled,1,1016.21,False,INR,Black,1016.21,2022-06,False
+897-5687895-8800337,04-18-22,Pending,Amazon,Amazon.in,Expedited,SET2035,J03137-KR-3XL,Blouse,3XL,B0R936866,In Transit,2,4922.46,False,INR,White,2461.23,2022-04,False
+687-6561881-8063478,06-07-22,Shipped - Returned to Seller,Merchant,Non-Amazon,Standard,J0786,JNE2946-TP-3XL,Saree,XXL,B0I164401,Cancelled,1,1243.28,False,INR,Blue,1243.28,2022-06,True
+184-3127708-9482495,06-23-22,Shipped,Amazon,Amazon.in,Expedited,SET2622,SET1227-TP-S,Western Dress,3XL,B0D733152,Delivered,2,3269.86,False,INR,Pink,1634.93,2022-06,False
+341-9135582-4033474,06-23-22,Cancelled,Amazon,Amazon.in,Expedited,SET2539,JNE3530-BL-XL,Top,XL,B0H792759,Cancelled,1,602.42,False,INR,Pink,602.42,2022-06,True
+873-2946062-1881193,04-26-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,PJNE3156,J01057-BL-3XL,Ethnic Dress,3XL,B0M597643,In Transit,2,1985.34,False,INR,Yellow,992.67,2022-04,False
+642-1688161-2633502,04-01-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,J01472,SET1193-KR-L,Western Dress,3XL,B0S510154,Cancelled,3,3693.87,False,INR,Green,1231.29,2022-04,False
+284-6255795-1177469,06-25-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,JNE2251,JNE2907-BL-L,Ethnic Dress,M,B0X397058,In Transit,2,2789.78,False,INR,Blue,1394.89,2022-06,False
+322-3043299-3012881,06-18-22,Shipped - Returned to Seller,Amazon,Amazon.in,Expedited,SET3770,JNE2949-DR-L,Set,L,B0O792561,Shipped,1,1565.52,False,INR,Red,1565.52,2022-06,True
+265-2241464-5652111,05-24-22,Shipped,Amazon,Amazon.in,Expedited,JNE1157,SET828-BL-S,Blouse,XL,B0G739947,Cancelled,3,5909.19,False,INR,Maroon,1969.73,2022-05,False
+208-8408511-5345236,04-13-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,J03283,SET176-BL-M,kurta,3XL,B0U100909,Shipped,1,1190.88,False,INR,Red,1190.88,2022-04,False
+824-9232235-9021848,04-19-22,Shipped,Merchant,Amazon.in,Standard,JNE2312,JNE113-BL-3XL,Blouse,XL,B0D694798,In Transit,1,1099.06,False,INR,Red,1099.06,2022-04,False
+647-6705306-2349840,05-21-22,Shipped,Merchant,Amazon.in,Expedited,SET823,J0261-BL-3XL,Set,M,B0J829685,Cancelled,1,2404.29,False,INR,White,2404.29,2022-05,False
+136-4239558-1425547,06-01-22,Shipped,Amazon,Amazon.in,Expedited,J02146,J03517-BL-S,Set,S,B0K158777,In Transit,2,2412.72,False,INR,Blue,1206.36,2022-06,False
+794-3499027-4908850,05-21-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,JNE2030,J0287-DR-3XL,Set,3XL,B0E115063,Delivered,1,1702.85,False,INR,Red,1702.85,2022-05,False
+937-2783941-2915617,04-12-22,Shipped,Merchant,Amazon.in,Expedited,JNE3395,JNE1845-TP-3XL,Top,3XL,B0M439984,Shipped,1,2120.31,False,INR,Pink,2120.31,2022-04,False
+277-6628818-2060687,05-11-22,Shipped,Amazon,Amazon.in,Standard,SET2952,SET2366-DR-XL,Saree,M,B0S142675,Delivered,3,2068.29,False,INR,Yellow,689.43,2022-05,False
+191-5760225-7983050,04-20-22,Shipped,Merchant,Amazon.in,Expedited,J02242,SET1787-DR-M,Set,XXL,B0W139448,Delivered,2,769.32,False,INR,Black,384.66,2022-04,False
+341-4219595-2971454,06-19-22,Shipped,Amazon,Amazon.in,Standard,SET2001,J02800-DR-L,Saree,S,B0G218152,Delivered,2,1998.12,False,INR,Maroon,999.06,2022-06,False
+472-5782589-4516332,06-02-22,Shipped,Merchant,Amazon.in,Expedited,PJNE277,JNE3132-KR-XXL,kurta,M,B0F923648,Shipped,1,2321.15,False,INR,Black,2321.15,2022-06,False
+303-6464086-4859820,04-09-22,Shipped,Amazon,Amazon.in,Expedited,PJNE3663,JNE1638-DR-S,kurta,XL,B0S607938,Shipped,2,3124.46,False,INR,Pink,1562.23,2022-04,False
+837-4257379-7016144,04-27-22,Shipped,Merchant,Amazon.in,Expedited,JNE1249,JNE555-BL-XL,Ethnic Dress,XL,B0F897273,In Transit,1,1089.86,False,INR,Red,1089.86,2022-04,False
+274-4853765-2450798,06-16-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,SET2523,SET3528-BL-L,kurta,S,B0X548906,Delivered,2,3332.8,False,INR,Yellow,1666.4,2022-06,False
+687-1085187-8009048,06-13-22,Shipped,Amazon,Amazon.in,Expedited,JNE1843,J01715-BL-3XL,kurta,S,B0O619344,Delivered,3,4680.21,False,INR,Blue,1560.07,2022-06,False
+344-2522188-1267263,06-27-22,Shipped,Merchant,Amazon.in,Expedited,PJNE3614,J03160-KR-XL,Blouse,XL,B0Y245357,Cancelled,1,700.41,False,INR,White,700.41,2022-06,False
+494-6585238-9907365,06-19-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Standard,SET3326,J0431-TP-3XL,Top,S,B0Q807424,In Transit,2,404.28,False,INR,Black,202.14,2022-06,False
+763-2124172-4434507,05-19-22,Shipped,Amazon,Non-Amazon,Expedited,JNE2758,SET3120-DR-3XL,Western Dress,M,B0K469844,In Transit,1,293.01,False,INR,Yellow,293.01,2022-05,False
+639-3058722-8888040,05-05-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,JNE871,SET457-KR-XL,Set,M,B0J180685,Shipped,1,993.02,False,INR,Black,993.02,2022-05,False
+742-1380679-5918567,06-28-22,Shipped - Delivered to Buyer,Merchant,Non-Amazon,Expedited,SET2041,SET1820-BL-3XL,kurta,3XL,B0A405677,Delivered,1,2211.48,True,INR,Green,2211.48,2022-06,False
+905-6474513-9156216,06-05-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,J0803,SET1028-BL-L,Blouse,L,B0Y986585,Shipped,1,1530.02,False,INR,Red,1530.02,2022-06,False
+286-3942041-3575047,05-28-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,J02453,JNE1905-TP-L,kurta,M,B0G689810,Shipped,1,568.82,False,INR,White,568.82,2022-05,False
+224-1418175-7787429,04-18-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,J0739,JNE3124-TP-3XL,Western Dress,3XL,B0J596931,In Transit,1,2442.57,False,INR,Pink,2442.57,2022-04,False
+849-9035971-1672446,06-11-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,JNE1745,J03544-DR-XL,Blouse,L,B0C442220,Shipped,3,3647.52,False,INR,Green,1215.84,2022-06,False
+123-2402399-8473546,06-13-22,Shipped,Amazon,Non-Amazon,Expedited,PJNE1401,J02578-KR-3XL,Ethnic Dress,L,B0M255132,Cancelled,1,2351.03,False,INR,White,2351.03,2022-06,False
+674-2469661-4618764,04-01-22,Shipped,Merchant,Amazon.in,Expedited,PJNE1282,JNE3400-BL-3XL,Western Dress,XL,B0E976097,Shipped,1,907.6,False,INR,Red,907.6,2022-04,False
+704-7304414-2483915,05-30-22,Shipped - Returned to Seller,Amazon,Amazon.in,Standard,PJNE816,J01992-DR-M,Saree,M,B0M403524,Cancelled,1,970.46,True,INR,Red,970.46,2022-05,True
+910-1041048-3584093,06-13-22,Shipped,Merchant,Amazon.in,Expedited,PJNE608,J02827-TP-XL,Western Dress,M,B0P821255,Delivered,1,1900.67,True,INR,Red,1900.67,2022-06,False
+546-5327037-8986637,06-02-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Standard,JNE3562,SET767-KR-M,Set,L,B0O826959,Delivered,1,1031.05,False,INR,Blue,1031.05,2022-06,False
+396-5893311-9885420,05-04-22,Shipped,Amazon,Amazon.in,Standard,SET3232,JNE2552-DR-XXL,Western Dress,L,B0K966985,In Transit,1,2296.84,False,INR,White,2296.84,2022-05,False
+630-5721406-7258139,04-12-22,Shipped,Merchant,Amazon.in,Standard,SET519,JNE733-DR-M,Ethnic Dress,XXL,B0T823153,Shipped,1,2092.62,False,INR,Black,2092.62,2022-04,False
+807-7082891-3332267,04-14-22,Shipped,Merchant,Amazon.in,Expedited,J0805,J01347-KR-3XL,Saree,S,B0H234966,Delivered,1,238.97,False,INR,Red,238.97,2022-04,False
+902-2874387-2304181,04-16-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Standard,JNE904,JNE234-KR-XL,kurta,S,B0I145383,Shipped,1,379.79,False,INR,Blue,379.79,2022-04,False
+304-4100124-6897756,04-12-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Standard,J03986,J01524-TP-M,Saree,XXL,B0Y863944,Delivered,1,1583.12,False,INR,Black,1583.12,2022-04,False
+296-5728772-3881880,04-12-22,Shipped,Amazon,Non-Amazon,Expedited,SET3870,J03586-BL-L,Saree,3XL,B0S294118,Cancelled,1,231.16,False,INR,Black,231.16,2022-04,False
+333-7838023-2893232,04-23-22,Shipped,Merchant,Amazon.in,Expedited,SET2130,SET2986-TP-XXL,Saree,3XL,B0B186243,In Transit,1,1072.11,False,INR,Yellow,1072.11,2022-04,False
+554-4789527-7833061,05-06-22,Pending,Merchant,Non-Amazon,Expedited,JNE3764,SET3946-TP-M,Top,S,B0V615530,Shipped,1,916.62,False,INR,Black,916.62,2022-05,False
+859-3830705-2085660,04-15-22,Pending,Merchant,Non-Amazon,Expedited,PJNE602,JNE3532-BL-3XL,kurta,XL,B0I901968,In Transit,1,1797.59,False,INR,Yellow,1797.59,2022-04,False
+623-5679008-3472527,05-15-22,Pending,Merchant,Amazon.in,Expedited,PJNE1045,J03960-DR-S,Top,S,B0X155419,Shipped,2,4768.64,False,INR,Blue,2384.32,2022-05,False
+738-2616210-2283746,04-22-22,Shipped,Merchant,Amazon.in,Expedited,PJNE2108,J01171-TP-XXL,Top,XXL,B0A901075,Shipped,1,951.0,False,INR,Black,951.0,2022-04,False
+133-3967372-6084244,05-19-22,Shipped,Amazon,Amazon.in,Expedited,PJNE2096,JNE2430-BL-3XL,Top,XXL,B0V665593,Cancelled,1,1064.57,False,INR,Pink,1064.57,2022-05,False
+731-6918393-5772070,06-03-22,Pending,Merchant,Amazon.in,Expedited,SET3528,SET1528-KR-3XL,Set,L,B0M202078,Cancelled,1,1336.79,False,INR,White,1336.79,2022-06,False
+419-2425085-2098911,05-22-22,Shipped,Merchant,Amazon.in,Expedited,J0253,SET2794-BL-XXL,Western Dress,XXL,B0N379570,Shipped,1,760.73,False,INR,Blue,760.73,2022-05,False
+600-2678672-4454568,05-10-22,Shipped,Merchant,Amazon.in,Standard,J0782,J01326-TP-XL,Top,M,B0P766311,Shipped,1,940.57,False,INR,Green,940.57,2022-05,False
+331-2542796-2589366,05-06-22,Shipped,Merchant,Amazon.in,Expedited,PJNE1849,JNE1522-KR-3XL,Western Dress,L,B0Q943187,In Transit,1,2490.32,False,INR,White,2490.32,2022-05,False
+881-4029979-1312111,04-25-22,Shipped,Amazon,Amazon.in,Expedited,PJNE1197,J02282-BL-XXL,Top,3XL,B0U162790,Delivered,1,1636.42,False,INR,Pink,1636.42,2022-04,False
+520-6346113-2080914,04-30-22,Cancelled,Amazon,Amazon.in,Expedited,J02746,JNE1150-DR-XL,kurta,M,B0D257246,Delivered,2,3919.44,True,INR,Red,1959.72,2022-04,True
+137-4388838-3673591,05-29-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,J02797,J0820-KR-3XL,Top,XL,B0Z120875,Shipped,1,1202.11,False,INR,Black,1202.11,2022-05,False
+472-2515088-7658793,05-10-22,Pending,Amazon,Amazon.in,Expedited,JNE2237,J03495-TP-XL,Ethnic Dress,S,B0H728958,Shipped,1,345.24,False,INR,White,345.24,2022-05,False
+341-8094564-4657573,05-12-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,J01900,SET1141-KR-XL,Saree,XXL,B0L833602,Shipped,1,1095.89,False,INR,Yellow,1095.89,2022-05,False
+248-7090096-8972898,05-30-22,Cancelled,Merchant,Amazon.in,Expedited,JNE3546,J02812-KR-3XL,Blouse,3XL,B0H365271,Cancelled,1,837.79,False,INR,White,837.79,2022-05,True
+108-7593035-5287143,06-26-22,Shipped,Merchant,Amazon.in,Standard,SET1318,JNE3620-DR-XL,Set,3XL,B0K951703,Cancelled,1,742.68,False,INR,Red,742.68,2022-06,False
+961-6582152-8086125,04-10-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Standard,JNE1541,SET2566-TP-XL,Saree,3XL,B0A898989,Shipped,2,2659.78,False,INR,Pink,1329.89,2022-04,False
+743-6126237-6263378,06-19-22,Shipped,Amazon,Amazon.in,Expedited,SET3569,J02908-BL-L,Top,XL,B0P870883,Delivered,2,1024.02,False,INR,White,512.01,2022-06,False
+486-4766269-1347869,05-06-22,Shipped,Amazon,Amazon.in,Expedited,SET3814,JNE1994-DR-L,kurta,3XL,B0F152201,Cancelled,1,1044.48,False,INR,Red,1044.48,2022-05,False
+114-9822092-8300752,04-19-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,SET3022,JNE880-TP-L,Set,3XL,B0P500633,Delivered,3,1770.84,False,INR,Green,590.28,2022-04,False
+528-4026104-7853897,06-15-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Standard,SET2630,SET3816-DR-L,kurta,XXL,B0V778675,Cancelled,4,3399.28,False,INR,Maroon,849.82,2022-06,False
+830-7433986-8101643,04-17-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,JNE1463,JNE2028-TP-XXL,Saree,3XL,B0Z727291,Shipped,1,1792.95,True,INR,Yellow,1792.95,2022-04,False
+142-4009366-5366969,05-08-22,Shipped - Returned to Seller,Amazon,Amazon.in,Standard,PJNE640,JNE1399-BL-M,Top,L,B0D428486,Shipped,2,1006.3,False,INR,Maroon,503.15,2022-05,True
+369-5425123-9673362,05-05-22,Shipped - Returned to Seller,Merchant,Amazon.in,Expedited,PJNE3228,JNE2376-BL-S,Blouse,M,B0E157217,Delivered,1,1188.2,False,INR,Maroon,1188.2,2022-05,True
+606-1684371-8407471,05-03-22,Pending,Merchant,Non-Amazon,Expedited,PJNE2119,JNE3564-DR-S,kurta,L,B0C313630,In Transit,2,2405.58,False,INR,Pink,1202.79,2022-05,False
+697-1069218-9825074,06-04-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,PJNE2872,JNE3734-TP-S,Saree,L,B0V813702,Shipped,1,2248.06,False,INR,Black,2248.06,2022-06,False
+591-8617787-5518413,05-11-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,PJNE1430,J03107-DR-M,kurta,S,B0Z774909,In Transit,1,1257.54,False,INR,Blue,1257.54,2022-05,False
+282-5027876-7692721,04-09-22,Shipped,Amazon,Amazon.in,Expedited,PJNE3292,SET1267-DR-S,Ethnic Dress,L,B0P940014,Cancelled,3,3228.6,False,INR,Red,1076.2,2022-04,False
+624-4353283-9214511,06-26-22,Cancelled,Merchant,Amazon.in,Expedited,PJNE469,SET3421-TP-XXL,Ethnic Dress,M,B0N761322,Cancelled,1,1729.7,False,INR,White,1729.7,2022-06,True
+607-9846268-9802632,05-29-22,Shipped,Amazon,Amazon.in,Expedited,PJNE1330,JNE623-TP-M,Blouse,XXL,B0N409834,Shipped,1,1777.34,False,INR,Blue,1777.34,2022-05,False
+837-5251016-6963589,06-04-22,Shipped,Merchant,Amazon.in,Standard,JNE566,J02809-BL-M,Set,M,B0M147457,Shipped,1,1148.94,False,INR,Red,1148.94,2022-06,False
+927-5447210-6726640,05-10-22,Shipped,Amazon,Amazon.in,Expedited,J03670,J0535-BL-XXL,Ethnic Dress,S,B0A514118,Shipped,2,3881.82,True,INR,Maroon,1940.91,2022-05,False
+843-9165848-6080140,05-28-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,PJNE3395,SET458-DR-M,Blouse,S,B0G217348,Shipped,1,1711.75,False,INR,Green,1711.75,2022-05,False
+962-4203013-2444410,04-03-22,Shipped,Merchant,Amazon.in,Expedited,PJNE189,JNE780-DR-3XL,kurta,3XL,B0O608608,Cancelled,1,532.85,True,INR,Maroon,532.85,2022-04,False
+152-6601074-1132108,06-13-22,Cancelled,Amazon,Amazon.in,Standard,PJNE3575,SET3119-TP-S,kurta,XL,B0M609713,Cancelled,1,1508.69,False,INR,Blue,1508.69,2022-06,True
+763-7998405-8941293,06-06-22,Shipped,Amazon,Amazon.in,Standard,J01936,J01886-KR-M,Set,L,B0X301537,Cancelled,1,925.46,False,INR,Green,925.46,2022-06,False
+973-8859576-3200475,06-03-22,Shipped - Returned to Seller,Merchant,Amazon.in,Expedited,PJNE3512,J02772-TP-XL,kurta,M,B0T317273,In Transit,1,1774.44,False,INR,Black,1774.44,2022-06,True
+203-7979059-9283332,06-24-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,JNE1569,SET1562-DR-M,Top,XXL,B0B946007,Shipped,1,657.81,False,INR,Black,657.81,2022-06,False
+448-6959954-1783099,06-18-22,Shipped,Merchant,Amazon.in,Standard,JNE2993,JNE3895-BL-XL,kurta,S,B0D919621,Shipped,1,714.42,False,INR,Blue,714.42,2022-06,False
+470-3634568-5901010,06-03-22,Shipped,Merchant,Amazon.in,Expedited,JNE731,J01589-TP-M,Set,S,B0G560438,Cancelled,1,470.54,False,INR,Blue,470.54,2022-06,False
+187-5463001-7248445,05-01-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,SET3185,J01827-DR-M,Saree,XL,B0N529191,Cancelled,2,1968.08,False,INR,White,984.04,2022-05,False
+171-2422342-6675793,04-03-22,Cancelled,Merchant,Amazon.in,Standard,PJNE351,SET3209-KR-3XL,Top,3XL,B0E702466,Shipped,1,221.88,False,INR,Red,221.88,2022-04,True
+838-6262932-6774002,05-23-22,Cancelled,Amazon,Amazon.in,Standard,SET2968,SET1927-DR-XXL,Top,XXL,B0Z748216,Cancelled,2,3621.64,False,INR,Yellow,1810.82,2022-05,True
+836-3114023-9732032,04-25-22,Shipped,Merchant,Amazon.in,Expedited,J02235,SET3200-DR-S,Western Dress,S,B0Z666160,In Transit,1,1435.1,False,INR,Red,1435.1,2022-04,False
+742-9514426-6947075,05-24-22,Shipped,Amazon,Amazon.in,Expedited,JNE1938,SET2444-KR-XL,Ethnic Dress,L,B0H944510,Delivered,1,336.88,False,INR,Red,336.88,2022-05,False
+486-9718559-5154597,06-24-22,Shipped,Amazon,Amazon.in,Expedited,J01960,JNE700-BL-XL,Saree,S,B0C165214,Cancelled,2,3032.72,False,INR,Maroon,1516.36,2022-06,False
+672-9706452-7623350,04-27-22,Shipped,Merchant,Amazon.in,Expedited,PJNE2922,SET3097-BL-M,Top,M,B0Q233299,Cancelled,1,1755.69,False,INR,Pink,1755.69,2022-04,False
+584-1547061-3631333,06-29-22,Shipped,Merchant,Amazon.in,Expedited,PJNE551,JNE1613-TP-S,Ethnic Dress,XXL,B0E223461,In Transit,2,941.06,False,INR,White,470.53,2022-06,False
+703-8075907-1816229,05-08-22,Shipped,Merchant,Amazon.in,Expedited,PJNE108,JNE2342-TP-S,Western Dress,S,B0N604550,In Transit,1,2018.77,False,INR,White,2018.77,2022-05,False
+241-9468532-8733225,05-18-22,Shipped,Merchant,Amazon.in,Expedited,J0465,J02821-BL-XL,Top,M,B0M455465,Shipped,2,4232.94,False,INR,Maroon,2116.47,2022-05,False
+745-6181610-3076710,05-05-22,Shipped,Amazon,Amazon.in,Expedited,JNE2435,J0875-BL-XXL,Blouse,S,B0D790229,Delivered,1,579.91,False,INR,Red,579.91,2022-05,False
+186-9951380-6375942,04-26-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,JNE1492,SET839-BL-S,kurta,XXL,B0K500567,In Transit,2,4257.02,False,INR,Black,2128.51,2022-04,False
+257-6147152-7832964,06-08-22,Cancelled,Amazon,Amazon.in,Standard,SET211,J0339-TP-XL,kurta,S,B0K249380,Cancelled,1,619.14,False,INR,Red,619.14,2022-06,True
+711-4967662-9270822,05-18-22,Shipped,Merchant,Amazon.in,Expedited,J02003,J01767-KR-XL,Saree,S,B0N764316,Delivered,3,954.96,False,INR,Blue,318.32,2022-05,False
+668-3106737-6110555,05-04-22,Shipped,Merchant,Amazon.in,Standard,SET3306,JNE1629-DR-M,Ethnic Dress,XXL,B0N682119,Cancelled,3,5255.16,True,INR,Maroon,1751.72,2022-05,False
+593-5585262-5209218,06-18-22,Shipped,Merchant,Non-Amazon,Standard,SET2496,J01252-KR-M,Western Dress,3XL,B0R690433,Shipped,1,583.98,False,INR,Yellow,583.98,2022-06,False
+999-8247127-4537478,06-28-22,Pending,Merchant,Amazon.in,Standard,J03183,J01954-TP-M,Set,3XL,B0K458224,Delivered,2,3733.34,False,INR,White,1866.67,2022-06,False
+104-1160702-3911451,04-02-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,PJNE3223,SET2304-KR-3XL,Blouse,3XL,B0C664814,Shipped,1,2320.19,False,INR,Maroon,2320.19,2022-04,False
+466-7488605-3972698,06-25-22,Cancelled,Amazon,Amazon.in,Expedited,SET1920,JNE1007-KR-L,Set,3XL,B0W475202,Delivered,1,2068.4,False,INR,Red,2068.4,2022-06,True
+604-4507886-1119712,04-28-22,Shipped,Amazon,Non-Amazon,Expedited,JNE3663,SET2431-BL-M,kurta,XXL,B0G791890,Delivered,4,9695.12,True,INR,Pink,2423.78,2022-04,False
+635-5602459-4218734,04-08-22,Shipped,Amazon,Non-Amazon,Standard,J02888,J03717-BL-S,kurta,XL,B0U805796,Shipped,1,1509.78,False,INR,White,1509.78,2022-04,False
+577-9314364-7064491,05-25-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,J03861,SET2280-BL-L,Saree,S,B0M304061,In Transit,4,3317.12,False,INR,Blue,829.28,2022-05,False
+268-6523472-6214457,04-28-22,Shipped,Amazon,Amazon.in,Expedited,PJNE1869,JNE2527-TP-L,Blouse,M,B0D596580,Delivered,1,370.21,False,INR,Blue,370.21,2022-04,False
+734-8357303-2605088,05-12-22,Cancelled,Merchant,Amazon.in,Expedited,JNE3854,JNE1645-TP-3XL,Ethnic Dress,S,B0Z233730,Shipped,2,4738.32,False,INR,Maroon,2369.16,2022-05,True
+157-1875823-5947882,04-07-22,Shipped,Merchant,Amazon.in,Expedited,PJNE1054,J03325-KR-XL,Western Dress,XL,B0O933790,Cancelled,1,1192.23,False,INR,Black,1192.23,2022-04,False
+436-4229300-2812049,05-13-22,Shipped,Amazon,Amazon.in,Standard,SET3804,J0616-TP-L,Blouse,XL,B0P859822,Cancelled,3,5999.22,False,INR,Pink,1999.74,2022-05,False
+767-7001942-6220872,04-05-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,J01292,SET133-DR-S,Set,M,B0Q958976,Shipped,1,1543.4,False,INR,Green,1543.4,2022-04,False
+783-8981342-8841710,04-25-22,Shipped,Merchant,Amazon.in,Expedited,J02623,SET1814-TP-M,Blouse,S,B0O927527,Shipped,3,6015.33,False,INR,Blue,2005.11,2022-04,False
+592-6561900-7306753,06-20-22,Shipped,Amazon,Amazon.in,Standard,JNE1586,JNE402-TP-S,kurta,XXL,B0D249319,In Transit,2,2544.06,False,INR,White,1272.03,2022-06,False
+368-3924009-6701191,04-05-22,Shipped,Amazon,Amazon.in,Expedited,J03830,JNE185-DR-XL,Set,3XL,B0Z216359,In Transit,1,852.43,False,INR,Red,852.43,2022-04,False
+639-8276581-2096852,05-28-22,Shipped,Amazon,Amazon.in,Standard,SET885,J01649-TP-L,kurta,XXL,B0N767044,Delivered,1,1055.41,False,INR,Green,1055.41,2022-05,False
+914-5698850-3121622,06-07-22,Shipped,Merchant,Amazon.in,Expedited,PJNE3339,J02618-KR-M,Western Dress,XXL,B0M887803,In Transit,2,1905.34,False,INR,Maroon,952.67,2022-06,False
+606-8948342-5501921,04-22-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,JNE948,JNE3765-DR-XL,Western Dress,M,B0M329212,In Transit,2,2815.18,False,INR,Yellow,1407.59,2022-04,False
+237-2409758-5950084,06-12-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,JNE2005,J02644-TP-XL,kurta,XL,B0O553515,Cancelled,3,3178.35,False,INR,Maroon,1059.45,2022-06,False
+760-2273196-7024579,05-10-22,Shipped,Amazon,Amazon.in,Expedited,JNE3318,SET3895-DR-S,Western Dress,S,B0C477735,Shipped,1,612.0,False,INR,White,612.0,2022-05,False
+799-5604751-4198449,04-25-22,Cancelled,Amazon,Non-Amazon,Standard,J0134,SET1254-TP-XL,Blouse,XL,B0S894617,Shipped,1,895.25,False,INR,Pink,895.25,2022-04,True
+628-8864124-8741026,05-20-22,Shipped,Merchant,Amazon.in,Expedited,SET1856,J01810-DR-XL,kurta,XL,B0R131566,In Transit,1,1922.02,False,INR,Pink,1922.02,2022-05,False
+447-4783105-8032125,05-09-22,Cancelled,Merchant,Amazon.in,Expedited,J01435,J0195-KR-M,Blouse,M,B0K695791,Cancelled,1,2062.92,False,INR,Green,2062.92,2022-05,True
+683-8575505-6111102,05-20-22,Shipped,Amazon,Amazon.in,Expedited,SET231,J02571-BL-S,Set,M,B0G172866,Cancelled,1,632.18,False,INR,Green,632.18,2022-05,False
+111-3882757-6482325,05-07-22,Shipped,Merchant,Amazon.in,Standard,SET2297,SET2058-KR-XL,Blouse,M,B0E315667,In Transit,1,1244.73,False,INR,Maroon,1244.73,2022-05,False
+833-8700011-5621132,04-20-22,Shipped,Amazon,Amazon.in,Expedited,JNE3477,SET2577-DR-XXL,Ethnic Dress,L,B0S614807,Cancelled,1,912.72,False,INR,Blue,912.72,2022-04,False
+962-5990361-7561407,04-11-22,Shipped,Amazon,Amazon.in,Expedited,PJNE1975,SET3830-DR-3XL,Western Dress,XXL,B0D512668,Shipped,1,2312.46,False,INR,Pink,2312.46,2022-04,False
+843-4644931-9279347,05-05-22,Shipped,Merchant,Non-Amazon,Expedited,J0413,JNE2166-TP-XL,Blouse,XL,B0F365045,Delivered,1,1732.31,False,INR,Maroon,1732.31,2022-05,False
+451-7699844-4261550,04-03-22,Shipped,Merchant,Amazon.in,Expedited,SET1439,J03166-BL-XL,Set,XL,B0C186558,Delivered,1,1752.93,False,INR,Maroon,1752.93,2022-04,False
+118-2686363-3973536,04-17-22,Shipped,Merchant,Amazon.in,Standard,SET417,J03227-KR-3XL,Top,L,B0E562063,In Transit,2,4269.18,False,INR,Blue,2134.59,2022-04,False
+930-9772377-2724585,06-25-22,Cancelled,Merchant,Amazon.in,Expedited,JNE299,SET3242-DR-M,Ethnic Dress,L,B0H309700,Shipped,1,1801.51,True,INR,Blue,1801.51,2022-06,True
+198-3816607-3802587,04-01-22,Shipped,Amazon,Amazon.in,Expedited,J01421,J02667-DR-XXL,Western Dress,M,B0R514254,Cancelled,2,3525.82,False,INR,Green,1762.91,2022-04,False
+112-7529468-4569653,04-13-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,J02762,J01611-KR-S,Western Dress,M,B0N416181,Cancelled,1,233.49,False,INR,Black,233.49,2022-04,False
+197-6441761-7519046,06-07-22,Shipped,Amazon,Amazon.in,Expedited,J03587,J02074-KR-L,Saree,S,B0T713455,Cancelled,4,8620.28,False,INR,Green,2155.07,2022-06,False
+877-3081317-6181620,06-03-22,Shipped,Amazon,Amazon.in,Standard,JNE345,JNE1634-BL-L,Ethnic Dress,M,B0E494000,Delivered,2,459.14,False,INR,Green,229.57,2022-06,False
+759-1664503-9738796,06-15-22,Shipped,Merchant,Amazon.in,Expedited,JNE1038,J01456-TP-M,Top,M,B0R156700,Delivered,2,1909.98,False,INR,Green,954.99,2022-06,False
+106-2084091-9248388,06-16-22,Shipped,Amazon,Amazon.in,Expedited,SET3943,JNE614-KR-M,Saree,XXL,B0R971598,Delivered,1,938.77,False,INR,Black,938.77,2022-06,False
+534-3960096-5177013,05-24-22,Shipped,Merchant,Amazon.in,Expedited,SET1213,SET427-TP-XL,Blouse,XL,B0F593578,Cancelled,1,576.57,False,INR,Yellow,576.57,2022-05,False
+537-2396415-6037049,04-19-22,Cancelled,Amazon,Amazon.in,Expedited,PJNE1999,SET1957-TP-XL,Saree,XXL,B0T604201,Shipped,3,3922.8,False,INR,Maroon,1307.6,2022-04,True
+847-7279004-9245225,04-25-22,Cancelled,Merchant,Amazon.in,Standard,J01673,SET1360-KR-XL,kurta,S,B0D503519,Delivered,3,625.86,False,INR,Yellow,208.62,2022-04,True
+600-7177044-1968122,05-02-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,SET2056,JNE3874-TP-3XL,Saree,3XL,B0V129628,Delivered,3,5580.48,False,INR,Maroon,1860.16,2022-05,False
+961-3708302-1206987,06-26-22,Pending,Amazon,Amazon.in,Expedited,PJNE1728,J02500-KR-XXL,kurta,M,B0N273878,Cancelled,1,1583.94,False,INR,Red,1583.94,2022-06,False
+521-2491048-2833314,06-03-22,Shipped,Merchant,Amazon.in,Expedited,SET3909,J01730-TP-S,Ethnic Dress,M,B0P101655,Shipped,1,1079.41,True,INR,Yellow,1079.41,2022-06,False
+483-4127273-3253718,06-06-22,Shipped,Amazon,Amazon.in,Expedited,JNE1945,J03435-DR-M,Top,M,B0B886343,Delivered,1,1885.0,False,INR,Green,1885.0,2022-06,False
+989-3787134-2338986,05-03-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,JNE1501,JNE2498-DR-XL,Saree,XL,B0V897477,Shipped,1,1640.73,True,INR,Red,1640.73,2022-05,False
+634-1121835-7302626,03-31-22,Shipped,Merchant,Amazon.in,Expedited,J02575,SET1478-TP-3XL,Blouse,L,B0K956526,Delivered,1,2470.52,False,INR,Yellow,2470.52,2022-03,False
+202-1051752-8665833,05-18-22,Shipped,Merchant,Amazon.in,Standard,SET205,J0603-TP-3XL,Ethnic Dress,M,B0L573870,Cancelled,1,1017.87,False,INR,Green,1017.87,2022-05,False
+468-1767629-6461406,03-31-22,Shipped,Merchant,Amazon.in,Expedited,JNE1526,SET3946-BL-3XL,Blouse,3XL,B0D869946,Cancelled,3,6204.06,False,INR,Green,2068.02,2022-03,False
+616-1532605-3145157,04-18-22,Cancelled,Merchant,Amazon.in,Expedited,PJNE788,SET573-BL-3XL,Saree,XXL,B0H355177,Delivered,1,1514.35,False,INR,Black,1514.35,2022-04,True
+434-7433891-5703624,04-13-22,Shipped - Returned to Seller,Amazon,Amazon.in,Expedited,JNE2825,JNE3879-BL-S,Top,3XL,B0K334677,Shipped,4,1064.84,False,INR,Yellow,266.21,2022-04,True
+927-4915256-4750560,05-18-22,Cancelled,Merchant,Amazon.in,Expedited,JNE1493,J02525-DR-3XL,Blouse,S,B0S485600,Delivered,1,1491.37,False,INR,Yellow,1491.37,2022-05,True
+967-7512001-8108481,06-12-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,SET2228,J02564-DR-S,Blouse,XL,B0A664441,Cancelled,1,341.34,False,INR,Red,341.34,2022-06,False
+864-1576194-6371047,04-28-22,Shipped,Merchant,Amazon.in,Expedited,J03572,J02450-BL-3XL,Top,M,B0P405654,Cancelled,2,1076.16,True,INR,White,538.08,2022-04,False
+330-1881916-4003461,04-19-22,Shipped - Returned to Seller,Merchant,Amazon.in,Expedited,SET188,J01706-TP-XL,Saree,3XL,B0P465226,Cancelled,2,4299.12,False,INR,Red,2149.56,2022-04,True
+199-3196149-6426063,05-06-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Standard,PJNE2781,JNE2464-DR-XL,Blouse,3XL,B0P405221,Delivered,3,5434.65,False,INR,Green,1811.55,2022-05,False
+904-3476408-7317557,06-22-22,Shipped,Merchant,Amazon.in,Expedited,JNE493,SET2040-DR-S,Set,S,B0Q781676,In Transit,1,2168.12,False,INR,Pink,2168.12,2022-06,False
+600-6078288-3893851,06-19-22,Shipped,Merchant,Amazon.in,Standard,JNE3285,SET3642-BL-L,Blouse,3XL,B0U566740,In Transit,1,277.18,True,INR,Black,277.18,2022-06,False
+123-9044647-5592340,04-10-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,PJNE2740,J01876-TP-XXL,Set,M,B0D441027,Shipped,1,1737.22,False,INR,Pink,1737.22,2022-04,False
+902-9893395-9196731,05-21-22,Cancelled,Amazon,Amazon.in,Expedited,JNE3186,JNE2797-KR-M,Saree,XXL,B0W288678,Shipped,2,2209.46,False,INR,White,1104.73,2022-05,True
+675-5307726-1587291,04-15-22,Shipped,Amazon,Non-Amazon,Expedited,J02329,JNE1832-KR-M,Set,L,B0B644675,In Transit,1,673.33,False,INR,Maroon,673.33,2022-04,False
+460-9566284-4520522,04-17-22,Shipped - Returned to Seller,Amazon,Amazon.in,Expedited,JNE870,JNE1327-DR-M,Ethnic Dress,XXL,B0R326534,In Transit,1,918.75,False,INR,Yellow,918.75,2022-04,True
+509-8651547-2396771,04-09-22,Shipped - Returned to Seller,Merchant,Amazon.in,Standard,SET2295,JNE389-TP-3XL,Ethnic Dress,3XL,B0U301984,In Transit,1,1077.1,False,INR,Pink,1077.1,2022-04,True
+126-5152322-2300646,05-23-22,Shipped,Merchant,Amazon.in,Expedited,PJNE370,SET2722-KR-L,Saree,L,B0Y386526,Delivered,1,2481.63,False,INR,Green,2481.63,2022-05,False
+207-3072044-3948283,05-05-22,Shipped,Merchant,Amazon.in,Standard,JNE2266,SET2969-TP-XXL,Set,L,B0T203878,Shipped,1,2451.82,False,INR,Yellow,2451.82,2022-05,False
+664-7755367-9000414,04-23-22,Cancelled,Amazon,Amazon.in,Expedited,SET2793,JNE684-BL-XXL,Western Dress,3XL,B0I155432,In Transit,2,3515.94,False,INR,Green,1757.97,2022-04,True
+462-8862907-9426008,06-25-22,Shipped,Merchant,Amazon.in,Expedited,SET1350,J03614-KR-L,Ethnic Dress,XL,B0Y427928,Shipped,1,1251.91,False,INR,Black,1251.91,2022-06,False
+667-9268659-1179426,04-30-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,SET2064,SET2209-KR-XL,Set,S,B0T299422,Shipped,1,331.05,False,INR,White,331.05,2022-04,False
+640-1710615-8527132,05-01-22,Pending,Amazon,Amazon.in,Standard,SET816,JNE1603-DR-XXL,Blouse,L,B0B543256,Cancelled,2,4632.12,False,INR,White,2316.06,2022-05,False
+884-2977453-5866478,04-14-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,JNE3122,J02429-BL-M,Western Dress,L,B0U640571,Shipped,3,2320.38,False,INR,Maroon,773.46,2022-04,False
+209-1086476-6867356,04-07-22,Shipped,Amazon,Amazon.in,Expedited,PJNE2115,JNE447-DR-XL,Western Dress,S,B0P107246,Delivered,1,1257.81,False,INR,Red,1257.81,2022-04,False
+286-9999758-5521152,04-28-22,Shipped,Amazon,Non-Amazon,Expedited,PJNE762,JNE1548-BL-S,Top,L,B0W308105,Shipped,1,887.36,False,INR,Blue,887.36,2022-04,False
+782-4338530-9041235,04-17-22,Shipped,Merchant,Amazon.in,Expedited,PJNE3376,J03025-DR-L,Top,XL,B0Q861260,Cancelled,1,960.79,False,INR,Black,960.79,2022-04,False
+342-1873083-6740173,04-02-22,Cancelled,Merchant,Non-Amazon,Standard,PJNE2066,SET1255-BL-S,kurta,XL,B0H747614,Delivered,1,1349.0,False,INR,Pink,1349.0,2022-04,True
+353-8200092-4328808,05-01-22,Pending,Merchant,Amazon.in,Standard,SET872,J02676-DR-M,Western Dress,S,B0E520775,Shipped,2,4373.16,False,INR,Green,2186.58,2022-05,False
+489-7833312-9807554,04-18-22,Cancelled,Merchant,Amazon.in,Standard,SET1476,SET2062-KR-XXL,Top,XL,B0U154164,In Transit,1,658.18,False,INR,White,658.18,2022-04,True
+286-1686005-1008991,05-05-22,Shipped - Returned to Seller,Amazon,Amazon.in,Expedited,J02033,SET3821-KR-XL,Western Dress,M,B0I615151,In Transit,2,1534.06,False,INR,Black,767.03,2022-05,True
+439-7049339-7063033,04-12-22,Cancelled,Merchant,Amazon.in,Expedited,PJNE457,JNE634-KR-S,Blouse,XXL,B0U957115,Delivered,1,1468.07,False,INR,Maroon,1468.07,2022-04,True
+585-4388982-9951610,04-12-22,Shipped,Amazon,Amazon.in,Expedited,J03751,J01522-TP-XL,Set,3XL,B0W223133,Cancelled,3,4868.16,True,INR,Yellow,1622.72,2022-04,False
+232-5859627-1762444,06-06-22,Shipped,Amazon,Amazon.in,Standard,PJNE2127,J02280-KR-M,Ethnic Dress,XL,B0Y634017,Cancelled,2,1165.9,False,INR,Yellow,582.95,2022-06,False
+323-1148668-9603283,05-21-22,Shipped,Merchant,Amazon.in,Standard,J01342,JNE1313-TP-XXL,Ethnic Dress,S,B0F334807,Shipped,1,622.35,False,INR,Red,622.35,2022-05,False
+376-1864361-5177662,04-05-22,Shipped - Returned to Seller,Amazon,Amazon.in,Expedited,J02691,J01611-TP-S,Blouse,3XL,B0R376864,Delivered,1,2231.29,False,INR,Red,2231.29,2022-04,True
+848-5692416-3965125,05-11-22,Shipped,Merchant,Non-Amazon,Expedited,JNE3059,J02918-BL-3XL,Set,L,B0U765117,Delivered,1,222.94,False,INR,Green,222.94,2022-05,False
+504-3611230-8483576,05-11-22,Cancelled,Amazon,Amazon.in,Expedited,SET3795,SET483-BL-M,Western Dress,XL,B0F955216,Delivered,1,1647.54,False,INR,Maroon,1647.54,2022-05,True
+937-7613533-4151566,04-23-22,Shipped - Returned to Seller,Amazon,Amazon.in,Expedited,PJNE3823,J01748-KR-3XL,Blouse,XXL,B0E862067,Shipped,1,912.37,False,INR,Yellow,912.37,2022-04,True
+144-3217596-5166503,05-19-22,Cancelled,Amazon,Amazon.in,Standard,JNE3345,JNE3342-KR-XXL,Set,3XL,B0K994141,Shipped,1,230.17,False,INR,Maroon,230.17,2022-05,True
+349-1937435-5487177,06-11-22,Shipped,Amazon,Amazon.in,Expedited,J0520,J03730-BL-M,Top,S,B0H125166,Delivered,2,1811.98,False,INR,Pink,905.99,2022-06,False
+803-2885904-9251380,05-15-22,Shipped - Delivered to Buyer,Amazon,Non-Amazon,Expedited,J01563,JNE2621-TP-S,Blouse,L,B0C145452,Delivered,1,2318.89,False,INR,White,2318.89,2022-05,False
+408-5815154-6844941,06-15-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,J03921,SET3420-KR-S,kurta,M,B0Y787712,Delivered,2,1089.02,False,INR,Yellow,544.51,2022-06,False
+215-8171473-5672054,05-27-22,Cancelled,Amazon,Amazon.in,Standard,SET3243,SET1544-TP-XL,Blouse,XL,B0P827104,Cancelled,2,4889.16,False,INR,White,2444.58,2022-05,True
+662-9339992-9955185,04-17-22,Shipped,Merchant,Amazon.in,Standard,PJNE442,J03028-BL-XXL,Saree,XXL,B0Y827186,Delivered,3,6956.07,False,INR,Green,2318.69,2022-04,False
+585-3241313-2848116,05-16-22,Shipped,Amazon,Amazon.in,Expedited,SET1307,SET690-BL-M,Set,M,B0H158579,Delivered,1,2155.37,False,INR,Pink,2155.37,2022-05,False
+818-2778549-2237660,05-18-22,Shipped,Merchant,Amazon.in,Standard,JNE701,SET678-KR-M,Blouse,S,B0A696831,Cancelled,1,2418.3,False,INR,Pink,2418.3,2022-05,False
+581-7904201-6659575,05-30-22,Shipped - Returned to Seller,Merchant,Amazon.in,Standard,J0555,JNE345-KR-XXL,Blouse,M,B0Q268137,Shipped,1,1412.14,False,INR,Yellow,1412.14,2022-05,True
+613-6134397-4813710,06-26-22,Shipped - Returned to Seller,Merchant,Amazon.in,Expedited,JNE2236,SET3995-DR-3XL,Top,M,B0M749114,Shipped,1,2106.89,False,INR,Pink,2106.89,2022-06,True
+420-7796448-7383228,06-10-22,Shipped,Amazon,Amazon.in,Expedited,PJNE897,SET544-KR-S,Ethnic Dress,L,B0T916628,In Transit,2,4154.18,True,INR,Red,2077.09,2022-06,False
+416-4149818-4384399,04-20-22,Shipped,Amazon,Amazon.in,Expedited,JNE2409,SET287-KR-L,Ethnic Dress,S,B0J108890,In Transit,1,686.39,False,INR,Yellow,686.39,2022-04,False
+232-2633762-6558596,06-03-22,Shipped,Merchant,Amazon.in,Expedited,SET197,J03360-BL-XL,kurta,XXL,B0B404212,Delivered,1,1097.48,False,INR,Maroon,1097.48,2022-06,False
+926-3363282-3701920,04-10-22,Shipped - Returned to Seller,Merchant,Amazon.in,Expedited,J01575,J03605-BL-S,Blouse,3XL,B0Y816044,Cancelled,1,1851.46,False,INR,Black,1851.46,2022-04,True
+246-6193258-2462431,04-19-22,Cancelled,Merchant,Amazon.in,Expedited,J0761,JNE1247-TP-L,Ethnic Dress,S,B0C287890,Cancelled,1,1343.3,False,INR,Maroon,1343.3,2022-04,True
+226-9191626-1664254,05-02-22,Shipped,Merchant,Amazon.in,Expedited,SET1905,SET2199-TP-L,Saree,S,B0V533265,Cancelled,2,3389.34,False,INR,Blue,1694.67,2022-05,False
+674-1133260-3593123,06-18-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,PJNE3597,JNE1013-BL-XL,Blouse,3XL,B0C465887,Cancelled,1,2017.36,False,INR,Maroon,2017.36,2022-06,False
+506-8266453-4346568,04-13-22,Pending,Merchant,Amazon.in,Expedited,PJNE970,J03136-BL-S,Set,L,B0O140141,Delivered,1,448.2,False,INR,Pink,448.2,2022-04,False
+489-2046902-7064842,06-20-22,Shipped - Delivered to Buyer,Merchant,Non-Amazon,Expedited,SET3655,JNE3207-BL-L,kurta,L,B0U284660,Shipped,1,271.04,False,INR,Red,271.04,2022-06,False
+637-4592084-5352802,05-21-22,Cancelled,Amazon,Amazon.in,Expedited,PJNE1500,SET773-DR-L,Set,XL,B0P598597,Delivered,1,1837.08,False,INR,Yellow,1837.08,2022-05,True
+711-4331283-2305413,05-15-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Standard,J0158,JNE3772-BL-M,Blouse,XL,B0K219125,Cancelled,1,2091.94,False,INR,Blue,2091.94,2022-05,False
+692-2634873-1612133,05-27-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,SET2561,SET985-TP-M,Saree,M,B0V704856,Shipped,2,3315.74,False,INR,White,1657.87,2022-05,False
+816-9374022-8650368,04-02-22,Cancelled,Merchant,Amazon.in,Expedited,PJNE2242,SET564-DR-XL,Western Dress,XL,B0L285488,Delivered,3,4061.4,False,INR,Yellow,1353.8,2022-04,True
+818-2664720-2470022,05-06-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,PJNE524,SET3171-KR-3XL,Saree,XL,B0Q709467,Shipped,1,1763.65,False,INR,Yellow,1763.65,2022-05,False
+976-8878148-3087766,04-27-22,Shipped,Merchant,Non-Amazon,Standard,PJNE3819,J02982-BL-S,kurta,L,B0Z334814,In Transit,2,2935.3,False,INR,Red,1467.65,2022-04,False
+104-7955106-1548189,05-09-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Standard,J01472,JNE2443-BL-M,Saree,XXL,B0M302019,Cancelled,3,6871.44,False,INR,Yellow,2290.48,2022-05,False
+425-9678469-3658243,04-16-22,Shipped,Merchant,Amazon.in,Standard,SET2165,JNE2686-BL-3XL,Blouse,L,B0R266779,In Transit,1,1873.66,False,INR,Black,1873.66,2022-04,False
+732-2321583-7415688,04-03-22,Shipped,Amazon,Amazon.in,Expedited,PJNE2698,J03285-TP-M,Top,M,B0U332527,In Transit,1,1970.07,False,INR,Green,1970.07,2022-04,False
+247-1388238-2735086,05-18-22,Shipped,Amazon,Amazon.in,Expedited,JNE680,SET1173-DR-S,Saree,S,B0P985652,In Transit,1,318.02,False,INR,Green,318.02,2022-05,False
+740-2280314-4528180,05-20-22,Shipped,Merchant,Amazon.in,Expedited,PJNE3411,JNE836-TP-S,Set,M,B0V694850,Shipped,1,249.5,False,INR,White,249.5,2022-05,False
+634-5269818-3040002,05-14-22,Shipped,Amazon,Amazon.in,Expedited,SET985,SET570-DR-S,Top,L,B0E330436,Shipped,4,6315.92,False,INR,Pink,1578.98,2022-05,False
+664-5937884-8835693,05-04-22,Shipped,Merchant,Amazon.in,Standard,SET1124,JNE910-TP-XL,Western Dress,S,B0S931681,In Transit,1,2391.43,False,INR,Green,2391.43,2022-05,False
+935-6347715-2804542,06-01-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,J03777,J03456-KR-XL,Top,M,B0B636196,In Transit,2,2347.2,False,INR,Red,1173.6,2022-06,False
+507-1502309-2923507,06-16-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,SET1565,JNE397-DR-3XL,Saree,L,B0L252085,In Transit,2,4769.74,False,INR,White,2384.87,2022-06,False
+429-4903198-2111241,06-27-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,SET521,J01238-KR-XXL,Set,3XL,B0N815267,Cancelled,2,1381.36,False,INR,White,690.68,2022-06,False
+381-8067188-3000834,04-25-22,Shipped,Amazon,Amazon.in,Expedited,PJNE1068,J0187-TP-S,kurta,3XL,B0Z997689,Shipped,1,1335.05,False,INR,Red,1335.05,2022-04,False
+640-1656328-6660462,04-16-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,PJNE3062,SET1225-TP-L,Saree,XL,B0C683480,In Transit,3,852.36,False,INR,Blue,284.12,2022-04,False
+224-7273103-2723751,05-20-22,Cancelled,Amazon,Amazon.in,Standard,SET530,SET3628-BL-M,Western Dress,M,B0C300445,In Transit,2,2489.08,False,INR,Blue,1244.54,2022-05,True
+149-6105140-2258998,06-27-22,Shipped,Merchant,Amazon.in,Expedited,PJNE1205,J0797-DR-XXL,Saree,XL,B0D232423,In Transit,1,2230.63,False,INR,Yellow,2230.63,2022-06,False
+589-9222577-5706707,06-20-22,Shipped,Merchant,Amazon.in,Expedited,JNE1180,SET3013-KR-L,Top,XXL,B0H791515,Delivered,2,2798.12,False,INR,Black,1399.06,2022-06,False
+494-4152731-9181335,06-02-22,Shipped,Amazon,Amazon.in,Standard,J03214,SET3002-BL-3XL,Set,M,B0Q210793,Delivered,1,1741.15,False,INR,White,1741.15,2022-06,False
+292-2151576-5661355,05-19-22,Cancelled,Merchant,Amazon.in,Expedited,JNE703,SET3688-KR-3XL,Top,S,B0H117393,Cancelled,2,2759.94,False,INR,Blue,1379.97,2022-05,True
+663-2410406-6946295,05-30-22,Shipped,Merchant,Amazon.in,Expedited,PJNE2180,SET317-BL-L,Blouse,L,B0D151521,Cancelled,1,1008.5,False,INR,Yellow,1008.5,2022-05,False
+722-9281506-9700973,04-24-22,Shipped,Merchant,Amazon.in,Expedited,SET554,JNE571-KR-S,Western Dress,XXL,B0I350365,Shipped,1,605.28,False,INR,Red,605.28,2022-04,False
+325-5500772-9307601,04-28-22,Shipped,Amazon,Amazon.in,Expedited,J02991,J01279-KR-S,Ethnic Dress,M,B0Q834497,Cancelled,2,2258.98,False,INR,Green,1129.49,2022-04,False
+566-3379573-1213654,04-21-22,Shipped,Merchant,Amazon.in,Expedited,J03709,JNE799-KR-XXL,Western Dress,L,B0P711486,Shipped,2,1164.56,False,INR,Green,582.28,2022-04,False
+397-4830031-9812554,05-30-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Standard,JNE1347,J01474-BL-XL,Set,3XL,B0L672223,In Transit,1,239.0,False,INR,Red,239.0,2022-05,False
+630-9126125-2891816,05-16-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,JNE705,SET3607-DR-3XL,Top,M,B0L622014,Shipped,1,1010.04,False,INR,Yellow,1010.04,2022-05,False
+754-2810792-5595680,05-16-22,Pending,Merchant,Non-Amazon,Standard,SET1186,J01528-TP-XL,kurta,XXL,B0N389666,In Transit,2,1289.68,False,INR,White,644.84,2022-05,False
+911-6821657-5838692,06-17-22,Pending,Amazon,Non-Amazon,Expedited,SET2010,J0715-TP-XXL,Set,XXL,B0V270505,In Transit,1,1245.56,False,INR,Black,1245.56,2022-06,False
+226-1892435-9193429,05-07-22,Cancelled,Merchant,Amazon.in,Expedited,JNE304,SET664-TP-L,Set,XXL,B0V906234,Delivered,1,698.85,False,INR,Red,698.85,2022-05,True
+324-1539164-8938605,04-18-22,Shipped,Merchant,Amazon.in,Expedited,PJNE1830,SET3803-KR-L,Blouse,L,B0T425830,Delivered,1,1545.02,False,INR,White,1545.02,2022-04,False
+667-4347443-6050986,06-13-22,Shipped,Merchant,Amazon.in,Expedited,PJNE2335,JNE1639-BL-S,kurta,M,B0Q563367,In Transit,2,1315.74,False,INR,White,657.87,2022-06,False
+128-1443289-8061842,05-29-22,Shipped,Amazon,Amazon.in,Expedited,J03322,JNE2477-TP-M,Western Dress,XXL,B0R693047,In Transit,1,1166.16,True,INR,Yellow,1166.16,2022-05,False
+630-8721222-1911778,04-16-22,Cancelled,Amazon,Amazon.in,Standard,JNE1465,J0498-TP-XXL,Top,XL,B0W447401,Shipped,2,2526.92,False,INR,Blue,1263.46,2022-04,True
+239-4750438-3596701,06-28-22,Pending,Merchant,Amazon.in,Standard,JNE3399,SET2654-DR-S,kurta,S,B0A260455,Shipped,1,1491.71,False,INR,Green,1491.71,2022-06,False
+156-3043656-6031885,04-26-22,Shipped,Merchant,Amazon.in,Expedited,SET3547,J01166-BL-3XL,Set,XXL,B0D553355,Delivered,1,2114.27,False,INR,Pink,2114.27,2022-04,False
+816-4361332-8988612,04-18-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,PJNE1604,J01227-BL-XL,Saree,3XL,B0Z212549,Cancelled,2,1505.14,False,INR,Yellow,752.57,2022-04,False
+694-6079496-1571826,04-18-22,Shipped,Merchant,Amazon.in,Standard,SET2016,J01977-TP-S,Set,M,B0L624957,Delivered,1,475.29,False,INR,Yellow,475.29,2022-04,False
+676-6692359-8708824,06-04-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Standard,J03882,SET379-BL-XL,Set,XL,B0T790982,Delivered,1,547.23,False,INR,Red,547.23,2022-06,False
+732-7774201-2133636,04-16-22,Shipped,Amazon,Amazon.in,Standard,SET495,J0535-BL-3XL,Blouse,XL,B0K896822,Delivered,1,2395.95,False,INR,Green,2395.95,2022-04,False
+165-2038956-5202421,04-13-22,Pending,Amazon,Amazon.in,Standard,PJNE3226,SET2584-KR-M,kurta,L,B0D832667,Cancelled,2,2164.78,False,INR,Green,1082.39,2022-04,False
+859-3719411-8282368,04-25-22,Shipped,Amazon,Amazon.in,Expedited,JNE933,JNE3417-DR-S,Western Dress,L,B0Y527847,Shipped,1,1760.35,False,INR,Maroon,1760.35,2022-04,False
+465-3313134-2126668,04-24-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,JNE2431,JNE620-TP-S,Saree,S,B0P341773,Shipped,1,2102.42,False,INR,White,2102.42,2022-04,False
+499-7004652-2140059,04-02-22,Cancelled,Amazon,Non-Amazon,Expedited,SET3594,J03916-TP-XL,kurta,XXL,B0B672461,Shipped,2,1731.52,False,INR,Red,865.76,2022-04,True
+883-1996431-3336875,06-22-22,Shipped,Amazon,Amazon.in,Standard,JNE1065,SET398-KR-L,Set,S,B0N727203,Shipped,1,1168.23,False,INR,Maroon,1168.23,2022-06,False
+330-6876348-8239629,04-16-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,SET187,JNE207-DR-XXL,Western Dress,XXL,B0M815067,Shipped,2,876.68,False,INR,Blue,438.34,2022-04,False
+662-3311404-2939164,05-19-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,J01540,JNE1505-BL-S,Saree,M,B0H196459,Shipped,1,487.05,False,INR,Blue,487.05,2022-05,False
+229-8357746-4029855,04-01-22,Shipped,Merchant,Amazon.in,Expedited,SET1297,JNE2582-BL-XL,Saree,3XL,B0D788484,Shipped,2,4136.06,True,INR,Green,2068.03,2022-04,False
+325-8441397-6078780,06-02-22,Shipped - Returned to Seller,Merchant,Amazon.in,Expedited,SET2257,SET1406-KR-S,Blouse,L,B0N839772,Cancelled,2,2040.0,False,INR,Green,1020.0,2022-06,True
+315-3059370-7247667,04-17-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,PJNE2762,SET567-KR-XL,Saree,S,B0I391469,Cancelled,4,2916.92,False,INR,Black,729.23,2022-04,False
+491-7453578-8449415,04-07-22,Shipped,Amazon,Amazon.in,Expedited,PJNE2281,JNE2805-TP-S,Western Dress,XXL,B0Y464699,Shipped,2,2164.1,False,INR,White,1082.05,2022-04,False
+843-8282586-8173085,05-03-22,Shipped,Amazon,Amazon.in,Expedited,J03616,J01998-BL-XXL,Saree,3XL,B0S906367,In Transit,2,1394.1,False,INR,Yellow,697.05,2022-05,False
+387-5603547-2435070,05-29-22,Shipped - Returned to Seller,Amazon,Amazon.in,Expedited,PJNE258,J01223-TP-L,Blouse,3XL,B0I920433,Shipped,4,2987.68,False,INR,White,746.92,2022-05,True
+577-1620820-7018384,05-03-22,Shipped,Merchant,Amazon.in,Expedited,PJNE339,J03945-KR-L,Saree,XXL,B0R429280,Shipped,1,1263.27,False,INR,Red,1263.27,2022-05,False
+250-1831808-4903596,05-05-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,PJNE2475,SET271-DR-S,Western Dress,3XL,B0I369950,Shipped,2,983.22,False,INR,White,491.61,2022-05,False
+619-8445941-2898888,06-08-22,Shipped,Amazon,Amazon.in,Expedited,J03496,J01803-KR-3XL,Blouse,XL,B0J250029,Shipped,1,738.8,False,INR,White,738.8,2022-06,False
+401-1522734-3689602,05-12-22,Shipped - Returned to Seller,Merchant,Amazon.in,Standard,JNE535,J0966-TP-XXL,Top,3XL,B0Y878088,In Transit,3,3182.55,False,INR,Yellow,1060.85,2022-05,True
+764-2316088-2297070,06-13-22,Cancelled,Amazon,Amazon.in,Standard,PJNE2307,J0596-KR-XXL,Set,XL,B0V649923,Cancelled,1,544.17,False,INR,Green,544.17,2022-06,True
+470-4873703-8647410,06-12-22,Cancelled,Merchant,Amazon.in,Expedited,SET1922,J03705-BL-L,Western Dress,S,B0L687681,Shipped,3,2864.91,False,INR,Maroon,954.97,2022-06,True
+946-3101870-5109477,06-16-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,J03359,SET1499-TP-S,kurta,S,B0N541474,Delivered,1,1162.36,False,INR,Green,1162.36,2022-06,False
+667-8882947-2694421,04-23-22,Shipped,Amazon,Amazon.in,Standard,JNE2926,JNE399-DR-XXL,Top,XXL,B0M542875,In Transit,1,476.81,False,INR,Green,476.81,2022-04,False
+723-2808110-1758962,05-07-22,Shipped,Amazon,Amazon.in,Expedited,PJNE3830,SET2683-BL-3XL,Set,XL,B0J894464,Cancelled,1,2095.85,False,INR,Pink,2095.85,2022-05,False
+707-7205454-8608923,06-14-22,Shipped - Returned to Seller,Merchant,Amazon.in,Expedited,J03969,JNE1051-TP-XL,Saree,L,B0B691534,Cancelled,3,1175.16,False,INR,Yellow,391.72,2022-06,True
+852-4534635-8223223,05-10-22,Cancelled,Merchant,Amazon.in,Expedited,JNE1522,SET778-KR-L,Saree,L,B0P560237,Delivered,1,528.35,False,INR,Red,528.35,2022-05,True
+244-2610210-4470251,05-03-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Standard,SET127,SET3509-KR-L,Ethnic Dress,M,B0J698910,Cancelled,2,4650.78,False,INR,Pink,2325.39,2022-05,False
+222-8455879-8252219,05-28-22,Shipped - Returned to Seller,Merchant,Amazon.in,Standard,J03096,J0577-TP-S,Western Dress,3XL,B0Z333247,Shipped,3,5539.14,False,INR,White,1846.38,2022-05,True
+823-6281634-1643521,05-05-22,Cancelled,Merchant,Amazon.in,Standard,J0879,J02807-KR-3XL,Top,3XL,B0A357859,Delivered,1,1378.54,False,INR,Green,1378.54,2022-05,True
+851-9333686-5741235,06-25-22,Cancelled,Amazon,Amazon.in,Standard,SET113,SET375-BL-XXL,kurta,XXL,B0G844479,Delivered,1,547.3,True,INR,Red,547.3,2022-06,True
+643-4020978-6034852,06-17-22,Shipped,Amazon,Amazon.in,Expedited,PJNE3363,J01706-TP-XXL,Top,XL,B0J201222,Delivered,1,738.85,False,INR,Red,738.85,2022-06,False
+575-6350354-2904822,05-23-22,Shipped,Merchant,Amazon.in,Standard,PJNE3541,SET2561-BL-3XL,Top,M,B0A405062,In Transit,1,1722.56,False,INR,Yellow,1722.56,2022-05,False
+500-8414716-8133660,04-07-22,Shipped,Merchant,Amazon.in,Expedited,PJNE3082,JNE1491-KR-L,Ethnic Dress,XL,B0N332060,Delivered,2,1601.38,False,INR,Black,800.69,2022-04,False
+839-1354296-7361721,06-17-22,Shipped,Amazon,Amazon.in,Expedited,J03240,J0359-KR-XXL,Ethnic Dress,M,B0L661483,Delivered,1,1590.41,False,INR,Yellow,1590.41,2022-06,False
+320-5172556-1228856,04-29-22,Shipped,Amazon,Amazon.in,Standard,JNE2154,SET3341-BL-S,Western Dress,M,B0J416110,Shipped,2,4587.0,False,INR,Green,2293.5,2022-04,False
+510-3201056-5529825,04-04-22,Shipped,Amazon,Amazon.in,Expedited,PJNE182,JNE3141-DR-S,Western Dress,3XL,B0S931122,Cancelled,2,4137.78,False,INR,Red,2068.89,2022-04,False
+307-2672339-5433714,05-11-22,Shipped,Merchant,Amazon.in,Expedited,SET1764,J01240-BL-L,Top,3XL,B0R631201,Delivered,1,252.89,False,INR,Maroon,252.89,2022-05,False
+691-1417616-7666403,05-20-22,Shipped,Amazon,Amazon.in,Expedited,JNE2732,SET1461-DR-3XL,Western Dress,S,B0D688130,Delivered,2,3685.06,False,INR,Maroon,1842.53,2022-05,False
+635-4899524-1988730,06-14-22,Cancelled,Merchant,Amazon.in,Expedited,J03517,JNE249-TP-3XL,kurta,XXL,B0T526282,Shipped,1,1126.35,False,INR,Green,1126.35,2022-06,True
+341-6399544-8740538,06-10-22,Pending,Merchant,Amazon.in,Standard,JNE3873,JNE1843-KR-XL,Saree,M,B0Y114286,Delivered,1,1348.58,False,INR,Black,1348.58,2022-06,False
+534-9307817-3864241,04-21-22,Shipped,Merchant,Amazon.in,Standard,PJNE1735,JNE1315-KR-XL,kurta,L,B0X809553,In Transit,1,2434.41,False,INR,White,2434.41,2022-04,False
+922-7228596-9713746,06-11-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,J03897,J03049-DR-M,Blouse,XXL,B0W969697,Cancelled,1,866.45,True,INR,Yellow,866.45,2022-06,False
+818-4148654-4343156,04-22-22,Shipped,Amazon,Amazon.in,Expedited,JNE2659,SET2534-DR-S,kurta,L,B0U686317,Delivered,1,2483.61,False,INR,Blue,2483.61,2022-04,False
+846-6129639-7161848,04-24-22,Shipped,Merchant,Amazon.in,Expedited,SET417,J0724-KR-3XL,Western Dress,M,B0I286987,In Transit,1,2295.47,False,INR,Pink,2295.47,2022-04,False
+973-5651273-8942448,06-05-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Standard,SET474,J0700-DR-M,Ethnic Dress,XL,B0A439044,Shipped,1,1079.78,False,INR,Blue,1079.78,2022-06,False
+409-9394901-2967908,04-17-22,Shipped,Amazon,Amazon.in,Expedited,PJNE2992,SET1554-TP-XXL,Ethnic Dress,L,B0Q181998,Delivered,2,2354.86,False,INR,Red,1177.43,2022-04,False
+356-3017289-8305024,04-18-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,PJNE3256,J01517-BL-M,Saree,XXL,B0R300261,Cancelled,1,1214.79,False,INR,Blue,1214.79,2022-04,False
+436-2578878-7188568,04-25-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,J0237,J01226-BL-XL,Top,S,B0W838474,In Transit,1,647.24,False,INR,Blue,647.24,2022-04,False
+722-8624921-9225877,06-12-22,Shipped,Amazon,Amazon.in,Standard,JNE256,SET218-DR-3XL,Saree,3XL,B0F992278,Delivered,1,1850.47,False,INR,Black,1850.47,2022-06,False
+657-5655311-4257839,04-07-22,Shipped,Amazon,Amazon.in,Expedited,J03777,J0793-TP-XXL,Top,S,B0V522757,Cancelled,1,342.35,False,INR,Blue,342.35,2022-04,False
+185-3895499-8438998,04-08-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,PJNE808,J03159-KR-L,kurta,L,B0R467719,Shipped,2,2705.02,False,INR,Black,1352.51,2022-04,False
+188-4114839-6326787,06-11-22,Shipped,Amazon,Amazon.in,Standard,SET2713,SET1985-KR-3XL,Top,M,B0J977981,Delivered,1,2310.43,False,INR,Pink,2310.43,2022-06,False
+678-6293899-7945478,05-09-22,Shipped,Amazon,Amazon.in,Expedited,SET825,SET1162-BL-L,Set,S,B0P472405,In Transit,1,859.28,False,INR,Maroon,859.28,2022-05,False
+494-3612283-4534335,06-19-22,Cancelled,Merchant,Amazon.in,Standard,J0949,SET2965-TP-S,Blouse,XXL,B0Y320958,In Transit,2,566.96,False,INR,Red,283.48,2022-06,True
+578-6418889-7245868,04-04-22,Shipped,Merchant,Amazon.in,Standard,J02972,JNE2678-TP-S,Set,M,B0N598593,In Transit,1,1650.56,False,INR,Black,1650.56,2022-04,False
+122-8365343-8657887,04-23-22,Shipped,Merchant,Amazon.in,Expedited,SET1134,J01628-TP-XL,Western Dress,3XL,B0M414754,Shipped,1,1272.73,False,INR,Green,1272.73,2022-04,False
+510-1479076-3751899,06-03-22,Pending,Amazon,Amazon.in,Standard,SET3997,J03179-DR-M,Set,3XL,B0K926874,Shipped,1,1979.37,False,INR,Red,1979.37,2022-06,False
+774-3474488-4362263,04-18-22,Shipped,Amazon,Amazon.in,Expedited,SET3613,JNE1888-KR-3XL,Saree,M,B0E817974,In Transit,1,1109.79,True,INR,Pink,1109.79,2022-04,False
+583-7313125-8775970,05-14-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,SET1403,JNE1737-TP-L,Set,3XL,B0X545217,Cancelled,1,1778.61,False,INR,White,1778.61,2022-05,False
+723-3989029-4945289,06-01-22,Shipped,Merchant,Amazon.in,Expedited,JNE2600,J03178-BL-S,Blouse,3XL,B0H244787,Cancelled,2,3095.58,False,INR,Green,1547.79,2022-06,False
+254-5780904-6219258,05-08-22,Shipped,Merchant,Amazon.in,Expedited,J01827,JNE769-BL-3XL,Top,XXL,B0D587506,Shipped,1,1082.35,False,INR,Black,1082.35,2022-05,False
+231-9505552-7442287,06-22-22,Shipped,Merchant,Amazon.in,Expedited,PJNE1830,JNE1340-BL-L,Saree,3XL,B0U221591,Cancelled,1,2054.91,False,INR,Maroon,2054.91,2022-06,False
+534-9920640-7433589,05-12-22,Cancelled,Amazon,Amazon.in,Expedited,J0909,J03429-BL-XL,Saree,S,B0O395398,Shipped,1,1038.18,False,INR,Maroon,1038.18,2022-05,True
+535-6661668-5968479,05-28-22,Shipped,Amazon,Amazon.in,Expedited,J01808,JNE1929-TP-L,Western Dress,3XL,B0B724719,Shipped,1,1577.45,False,INR,Blue,1577.45,2022-05,False
+229-3426728-9278722,06-07-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,PJNE2922,J01099-BL-S,Blouse,S,B0K490904,Shipped,1,602.04,False,INR,Black,602.04,2022-06,False
+867-6066483-8088875,05-18-22,Shipped - Returned to Seller,Merchant,Amazon.in,Standard,J03055,J03142-KR-XL,Ethnic Dress,S,B0Z300952,In Transit,4,1520.64,False,INR,Green,380.16,2022-05,True
+547-5610156-4115755,06-27-22,Shipped,Merchant,Amazon.in,Expedited,PJNE3826,JNE2877-TP-L,Saree,S,B0N317198,Shipped,1,1517.67,False,INR,Pink,1517.67,2022-06,False
+199-4713195-4771933,05-05-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,J03082,J02595-BL-XXL,Western Dress,XL,B0U724144,In Transit,1,2016.59,False,INR,Maroon,2016.59,2022-05,False
+255-8750193-9371405,06-10-22,Cancelled,Amazon,Amazon.in,Expedited,PJNE1147,SET232-KR-3XL,Set,XL,B0R462072,Shipped,1,934.18,False,INR,White,934.18,2022-06,True
+259-3797337-6899311,05-08-22,Shipped,Merchant,Amazon.in,Standard,J02379,J02110-DR-XL,Western Dress,XXL,B0E496811,Shipped,2,2474.9,False,INR,Green,1237.45,2022-05,False
+896-7729618-7853764,04-27-22,Shipped,Merchant,Amazon.in,Expedited,J01408,SET2681-KR-3XL,Set,3XL,B0U898756,In Transit,1,609.83,False,INR,Yellow,609.83,2022-04,False
+560-3633482-3980080,04-28-22,Shipped,Merchant,Amazon.in,Expedited,J03224,SET2787-DR-3XL,Saree,S,B0M708339,Cancelled,1,1939.7,False,INR,Yellow,1939.7,2022-04,False
+615-2350663-7858110,04-24-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,PJNE2903,JNE3998-TP-S,Blouse,3XL,B0T928249,Cancelled,1,714.64,False,INR,Green,714.64,2022-04,False
+829-4351841-6414413,04-20-22,Shipped,Amazon,Amazon.in,Standard,SET2465,SET1980-DR-3XL,Top,XXL,B0O353633,Delivered,1,2210.7,False,INR,Black,2210.7,2022-04,False
+573-2171758-1115482,06-16-22,Shipped,Amazon,Amazon.in,Expedited,PJNE3631,SET388-BL-L,Saree,3XL,B0R226858,Shipped,1,2315.36,False,INR,Blue,2315.36,2022-06,False
+472-7701313-9582547,05-07-22,Cancelled,Merchant,Amazon.in,Expedited,SET3569,SET3204-KR-3XL,Saree,M,B0L532949,In Transit,1,2090.33,False,INR,Green,2090.33,2022-05,True
+569-9247292-5105861,05-31-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,J03325,SET2965-TP-XXL,kurta,L,B0T137480,Delivered,1,958.06,False,INR,Red,958.06,2022-05,False
+414-3655874-6112711,04-03-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,SET3146,J0626-DR-XXL,kurta,L,B0M369804,Delivered,2,2990.28,True,INR,Green,1495.14,2022-04,False
+620-9670766-7808943,06-13-22,Shipped,Merchant,Amazon.in,Expedited,J02737,JNE2504-TP-XXL,Western Dress,L,B0M608817,Delivered,1,226.75,False,INR,Maroon,226.75,2022-06,False
+450-4771940-6189331,04-22-22,Shipped - Returned to Seller,Amazon,Amazon.in,Expedited,JNE2762,JNE1560-BL-XL,Top,XXL,B0U112793,Delivered,3,695.19,False,INR,White,231.73,2022-04,True
+168-5554570-9971681,06-24-22,Shipped,Amazon,Non-Amazon,Expedited,SET1102,SET3365-DR-3XL,Set,3XL,B0H339431,Cancelled,1,426.33,False,INR,Red,426.33,2022-06,False
+165-3223802-9767063,06-09-22,Cancelled,Merchant,Amazon.in,Expedited,PJNE2001,JNE2299-KR-L,Western Dress,3XL,B0C305967,Cancelled,1,636.03,False,INR,Black,636.03,2022-06,True
+407-1161102-8210103,05-30-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,SET2512,J02616-BL-S,kurta,L,B0Y526947,In Transit,1,1554.56,False,INR,Pink,1554.56,2022-05,False
+370-9928667-5177895,05-12-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,J02663,SET556-DR-XL,Ethnic Dress,S,B0K634299,Cancelled,1,851.64,False,INR,Pink,851.64,2022-05,False
+553-6745050-4064453,04-08-22,Shipped - Returned to Seller,Amazon,Amazon.in,Standard,SET1358,J01350-TP-XXL,Saree,XL,B0D818008,In Transit,1,899.67,False,INR,Green,899.67,2022-04,True
+904-3881944-3649846,06-12-22,Cancelled,Amazon,Amazon.in,Expedited,PJNE2776,J03330-BL-3XL,Blouse,L,B0H375623,Cancelled,1,558.69,False,INR,Red,558.69,2022-06,True
+422-8544846-6167665,05-17-22,Cancelled,Merchant,Amazon.in,Standard,JNE3222,SET326-BL-L,kurta,3XL,B0Z246727,Cancelled,1,1870.43,False,INR,Blue,1870.43,2022-05,True
+482-1397267-6399676,06-29-22,Shipped,Merchant,Amazon.in,Expedited,SET3366,JNE2629-BL-L,kurta,S,B0C354948,Delivered,1,1847.35,False,INR,Maroon,1847.35,2022-06,False
+499-9171197-5191722,06-14-22,Cancelled,Merchant,Non-Amazon,Expedited,JNE515,JNE2719-TP-L,Top,XXL,B0L559406,In Transit,3,7129.29,False,INR,Pink,2376.43,2022-06,True
+994-3523621-6013965,04-09-22,Cancelled,Amazon,Amazon.in,Expedited,J02445,J03224-TP-XXL,Western Dress,XXL,B0J823066,Shipped,4,7534.52,False,INR,Black,1883.63,2022-04,True
+891-8479960-4603961,06-28-22,Shipped,Amazon,Amazon.in,Expedited,J01464,JNE2875-TP-L,Blouse,XXL,B0X124262,Delivered,2,4801.12,False,INR,Yellow,2400.56,2022-06,False
+161-9594324-7265860,05-24-22,Cancelled,Amazon,Amazon.in,Standard,J03336,J02115-TP-XXL,Top,L,B0U170369,Shipped,2,4069.24,False,INR,Black,2034.62,2022-05,True
+579-4202560-2226138,06-07-22,Shipped,Merchant,Amazon.in,Expedited,SET2764,SET399-DR-3XL,kurta,XXL,B0K576102,Cancelled,2,4290.98,False,INR,Yellow,2145.49,2022-06,False
+330-6408711-8166381,06-12-22,Shipped,Amazon,Amazon.in,Expedited,J02280,SET2777-DR-XXL,Western Dress,L,B0W704877,Delivered,1,2103.91,False,INR,Pink,2103.91,2022-06,False
+964-1661904-3136134,04-26-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,J03902,JNE2795-DR-M,Western Dress,L,B0F544893,In Transit,1,259.32,False,INR,Green,259.32,2022-04,False
+954-7293367-1426542,05-15-22,Shipped,Merchant,Amazon.in,Standard,SET1658,JNE1930-BL-XL,Set,M,B0G908435,Cancelled,1,2266.42,False,INR,Black,2266.42,2022-05,False
+266-4517141-3019277,04-11-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,J01800,JNE961-KR-XXL,kurta,L,B0P367685,Shipped,1,1529.1,False,INR,Blue,1529.1,2022-04,False
+463-7046381-6200630,03-31-22,Cancelled,Amazon,Amazon.in,Standard,J01039,J0445-BL-XL,Top,S,B0I865071,In Transit,2,2239.42,True,INR,Green,1119.71,2022-03,True
+581-1654157-2026454,04-22-22,Shipped,Amazon,Amazon.in,Expedited,J02629,SET3472-DR-XL,Ethnic Dress,M,B0F643791,Delivered,1,1391.83,False,INR,Pink,1391.83,2022-04,False
+513-7260990-5449004,05-16-22,Shipped,Merchant,Amazon.in,Expedited,JNE3740,SET240-DR-XL,Set,S,B0R495351,Delivered,2,535.9,False,INR,Blue,267.95,2022-05,False
+587-8791898-7963833,05-14-22,Shipped,Merchant,Amazon.in,Expedited,JNE1375,SET2023-TP-M,kurta,L,B0V666216,In Transit,1,2471.84,False,INR,Black,2471.84,2022-05,False
+324-9635804-3177810,05-31-22,Shipped,Amazon,Amazon.in,Expedited,JNE3037,SET1256-KR-M,Top,M,B0I293595,In Transit,2,4317.06,False,INR,Maroon,2158.53,2022-05,False
+878-3209678-6501987,06-24-22,Shipped - Returned to Seller,Merchant,Amazon.in,Expedited,JNE3163,SET2688-KR-M,Ethnic Dress,M,B0A249898,Shipped,1,1526.48,False,INR,Green,1526.48,2022-06,True
+452-4149893-7805792,04-20-22,Shipped - Delivered to Buyer,Merchant,Non-Amazon,Expedited,J02335,SET582-TP-3XL,Top,XXL,B0K453637,Delivered,1,1514.8,False,INR,Maroon,1514.8,2022-04,False
+631-5410115-2058940,06-09-22,Shipped,Merchant,Amazon.in,Expedited,SET487,JNE1973-KR-S,Top,XXL,B0W410078,Delivered,2,3470.86,False,INR,Red,1735.43,2022-06,False
+616-4063727-7669918,05-27-22,Pending,Amazon,Amazon.in,Expedited,JNE913,J03149-TP-XXL,Top,XXL,B0Y259143,Shipped,1,2359.96,False,INR,White,2359.96,2022-05,False
+262-2680038-3778902,06-08-22,Shipped,Amazon,Amazon.in,Standard,SET2315,J01836-DR-L,kurta,S,B0M410899,Cancelled,2,4985.0,False,INR,Yellow,2492.5,2022-06,False
+176-5216604-6227870,05-30-22,Shipped,Amazon,Amazon.in,Expedited,JNE342,SET674-DR-XL,Top,M,B0Y946188,Delivered,1,1858.56,False,INR,Pink,1858.56,2022-05,False
+172-4796768-5634166,06-21-22,Cancelled,Amazon,Amazon.in,Expedited,SET943,SET683-TP-L,Top,S,B0U222989,In Transit,1,643.75,False,INR,Maroon,643.75,2022-06,True
+724-8623020-3578265,04-29-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Standard,J03684,SET3989-KR-XL,Blouse,L,B0D757350,Cancelled,1,2090.15,False,INR,Pink,2090.15,2022-04,False
+635-2728894-2486007,06-29-22,Shipped,Merchant,Amazon.in,Standard,PJNE3527,J01871-BL-S,Blouse,3XL,B0D907346,In Transit,2,2639.6,False,INR,Red,1319.8,2022-06,False
+465-2394075-1216864,05-02-22,Cancelled,Amazon,Amazon.in,Expedited,PJNE1006,J01876-TP-S,Blouse,3XL,B0P687905,Cancelled,1,1164.18,False,INR,Yellow,1164.18,2022-05,True
+200-2592385-2970875,04-05-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,PJNE3439,SET3042-KR-L,Ethnic Dress,3XL,B0Z561630,Cancelled,1,2126.87,False,INR,Blue,2126.87,2022-04,False
+126-4624541-4032275,05-21-22,Shipped,Amazon,Amazon.in,Expedited,J03871,SET3384-KR-3XL,Saree,XL,B0I476007,In Transit,2,3822.18,False,INR,Green,1911.09,2022-05,False
+750-5415321-3694288,05-05-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Standard,J03133,SET3185-TP-M,Top,XL,B0C449976,In Transit,2,1890.76,False,INR,Green,945.38,2022-05,False
+515-6249999-9341509,05-10-22,Shipped,Amazon,Amazon.in,Expedited,PJNE1536,SET3400-BL-L,Saree,M,B0F438438,Shipped,1,2301.59,False,INR,Red,2301.59,2022-05,False
+282-7676849-2273983,06-03-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Standard,PJNE3590,SET697-TP-XXL,Blouse,L,B0M239494,Cancelled,1,880.27,False,INR,Red,880.27,2022-06,False
+945-1684054-5125577,06-17-22,Shipped,Amazon,Amazon.in,Expedited,PJNE1019,J0996-DR-M,Ethnic Dress,XL,B0U950945,Delivered,4,3775.28,False,INR,Red,943.82,2022-06,False
+669-4225237-7917641,05-01-22,Shipped,Amazon,Amazon.in,Expedited,PJNE3158,SET2994-TP-L,Set,XL,B0L482221,Delivered,2,2621.06,False,INR,White,1310.53,2022-05,False
+352-3160312-2621038,04-09-22,Pending,Merchant,Amazon.in,Expedited,SET3049,SET3039-DR-XL,Blouse,L,B0S977252,Shipped,1,2176.87,False,INR,Maroon,2176.87,2022-04,False
+673-8524049-1965457,06-02-22,Shipped,Merchant,Amazon.in,Standard,JNE2893,SET367-TP-XXL,Ethnic Dress,L,B0X128916,Cancelled,1,2391.28,False,INR,Pink,2391.28,2022-06,False
+411-6545427-4901782,05-20-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,J03633,JNE2596-KR-3XL,kurta,L,B0S225497,Shipped,2,1823.2,False,INR,Yellow,911.6,2022-05,False
+283-4040670-1494719,04-20-22,Cancelled,Merchant,Amazon.in,Expedited,JNE3975,SET2451-BL-XL,Blouse,XL,B0W597452,Delivered,1,2452.5,False,INR,Pink,2452.5,2022-04,True
+611-2522272-4096510,04-12-22,Cancelled,Merchant,Amazon.in,Expedited,JNE1491,SET3179-KR-XXL,Western Dress,L,B0A735604,Shipped,1,1825.7,False,INR,Blue,1825.7,2022-04,True
+112-1078199-6483795,06-26-22,Pending,Merchant,Amazon.in,Standard,J03619,JNE806-DR-3XL,Western Dress,XXL,B0P290617,Delivered,1,202.98,False,INR,Black,202.98,2022-06,False
+823-3977821-9511563,06-26-22,Shipped - Returned to Seller,Amazon,Amazon.in,Expedited,JNE3930,J03738-KR-L,kurta,L,B0D466009,Delivered,1,1519.17,False,INR,Pink,1519.17,2022-06,True
+445-8628047-7523750,04-12-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,JNE1485,JNE1597-DR-M,Top,XL,B0G932625,Cancelled,1,556.08,True,INR,Blue,556.08,2022-04,False
+705-2657259-9721531,05-31-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,PJNE3200,J02734-DR-L,Saree,L,B0E569661,Delivered,2,3432.44,False,INR,Yellow,1716.22,2022-05,False
+429-9121925-7523126,05-21-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,J03257,J02962-KR-XXL,Top,S,B0G193519,In Transit,1,1327.07,False,INR,Pink,1327.07,2022-05,False
+410-7457573-4158126,06-21-22,Shipped,Merchant,Non-Amazon,Expedited,PJNE3125,J02246-DR-XXL,Western Dress,L,B0V833146,Shipped,2,2855.74,False,INR,Black,1427.87,2022-06,False
+308-9309339-4468470,05-28-22,Shipped,Amazon,Amazon.in,Expedited,JNE3885,SET119-DR-3XL,kurta,L,B0F508856,Delivered,3,5512.62,False,INR,Yellow,1837.54,2022-05,False
+532-6196562-4437253,04-05-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,PJNE1644,SET3551-DR-XL,kurta,L,B0T110936,Cancelled,1,765.2,True,INR,Maroon,765.2,2022-04,False
+262-9196287-2115690,04-16-22,Shipped,Amazon,Amazon.in,Expedited,J02888,J03911-BL-L,Blouse,XXL,B0J398534,In Transit,2,722.42,False,INR,Black,361.21,2022-04,False
+966-9354503-4368666,05-20-22,Shipped,Amazon,Amazon.in,Expedited,PJNE547,JNE1036-KR-XL,Saree,M,B0C899582,Shipped,2,1327.78,False,INR,White,663.89,2022-05,False
+615-4170380-4530452,05-26-22,Shipped,Merchant,Amazon.in,Expedited,SET1498,SET3875-DR-L,Blouse,XL,B0G775424,Shipped,1,1572.1,False,INR,Pink,1572.1,2022-05,False
+773-8363043-1424625,05-07-22,Shipped,Merchant,Amazon.in,Expedited,J02380,JNE687-TP-S,Ethnic Dress,S,B0V168295,Cancelled,1,622.12,False,INR,Blue,622.12,2022-05,False
+246-2741350-4920197,06-18-22,Shipped,Amazon,Amazon.in,Expedited,PJNE3248,J0590-DR-3XL,Blouse,S,B0S672084,Shipped,1,2344.44,True,INR,Maroon,2344.44,2022-06,False
+866-4987424-9230270,06-12-22,Shipped,Merchant,Amazon.in,Standard,PJNE2062,JNE1960-TP-M,Blouse,M,B0J768040,Delivered,1,1775.9,False,INR,Yellow,1775.9,2022-06,False
+247-1713952-8716379,05-02-22,Cancelled,Merchant,Amazon.in,Expedited,SET1747,JNE3541-TP-M,kurta,XL,B0N538017,Cancelled,1,247.16,False,INR,Maroon,247.16,2022-05,True
+840-9890863-4454681,05-19-22,Shipped,Amazon,Amazon.in,Expedited,SET3983,J02800-TP-XL,Top,XXL,B0Y930554,Cancelled,1,948.83,False,INR,Red,948.83,2022-05,False
+407-7914190-1853720,04-27-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,SET2801,SET3938-BL-M,Top,XL,B0A827679,Delivered,1,448.9,False,INR,Pink,448.9,2022-04,False
+688-4318696-3528045,05-04-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,SET3223,SET1395-KR-3XL,Blouse,S,B0Z168533,Shipped,2,3936.5,True,INR,Blue,1968.25,2022-05,False
+861-3526697-4573745,05-12-22,Shipped,Merchant,Amazon.in,Expedited,J02489,SET2045-TP-3XL,Saree,M,B0J417970,Shipped,1,2341.59,False,INR,Pink,2341.59,2022-05,False
+262-8878038-5718333,04-19-22,Shipped - Delivered to Buyer,Amazon,Non-Amazon,Expedited,SET3824,SET497-KR-M,kurta,XL,B0P497798,Cancelled,1,1423.3,False,INR,Blue,1423.3,2022-04,False
+685-4050662-8505009,06-14-22,Shipped,Amazon,Non-Amazon,Standard,J03727,SET448-TP-S,Blouse,M,B0E754344,In Transit,4,4129.92,False,INR,Pink,1032.48,2022-06,False
+399-2393728-6951077,04-14-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,PJNE792,SET3586-TP-M,Saree,XXL,B0I645712,Shipped,3,1957.2,False,INR,Pink,652.4,2022-04,False
+543-6662609-1678734,04-06-22,Shipped,Merchant,Amazon.in,Standard,PJNE2800,JNE1463-KR-M,Blouse,XXL,B0A870327,Shipped,1,904.26,False,INR,Green,904.26,2022-04,False
+484-6631019-7153780,05-30-22,Shipped,Merchant,Amazon.in,Expedited,J03045,SET2362-DR-XL,Top,L,B0I187352,Cancelled,1,1798.16,False,INR,Black,1798.16,2022-05,False
+231-2795994-5076209,06-24-22,Shipped,Amazon,Amazon.in,Expedited,SET3290,JNE3637-KR-S,Western Dress,3XL,B0A872279,In Transit,2,4518.76,False,INR,Black,2259.38,2022-06,False
+994-6551591-2775578,04-19-22,Shipped,Amazon,Amazon.in,Expedited,JNE860,JNE3041-KR-S,Ethnic Dress,XL,B0Z818904,Delivered,1,2203.1,False,INR,Black,2203.1,2022-04,False
+825-9309761-4121650,05-19-22,Cancelled,Merchant,Amazon.in,Expedited,JNE1912,JNE2179-KR-S,Western Dress,M,B0G376049,Delivered,1,642.07,False,INR,Green,642.07,2022-05,True
+429-4820432-3725015,06-28-22,Shipped,Merchant,Amazon.in,Expedited,PJNE2175,J01269-DR-XL,Set,L,B0L871168,Delivered,2,746.58,False,INR,Red,373.29,2022-06,False
+850-2013410-8215793,05-06-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Standard,PJNE149,J02862-KR-L,Saree,XXL,B0Y479039,Shipped,1,340.73,False,INR,White,340.73,2022-05,False
+881-9205525-6259232,05-27-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,J01778,SET3704-BL-L,Western Dress,XL,B0O586950,Cancelled,2,2608.06,False,INR,Yellow,1304.03,2022-05,False
+991-3506246-7701126,05-23-22,Shipped,Merchant,Amazon.in,Standard,SET718,J03974-DR-M,Set,S,B0A510299,Cancelled,2,4024.02,False,INR,White,2012.01,2022-05,False
+974-5658522-4820831,04-25-22,Cancelled,Amazon,Amazon.in,Standard,PJNE1882,JNE2096-KR-L,Set,S,B0C438986,Cancelled,1,563.13,False,INR,Pink,563.13,2022-04,True
+113-6167511-3660906,04-30-22,Shipped,Merchant,Amazon.in,Expedited,PJNE2605,JNE2553-DR-XXL,Ethnic Dress,L,B0K859962,In Transit,3,6141.99,False,INR,Pink,2047.33,2022-04,False
+527-5129038-4514088,05-17-22,Shipped,Merchant,Amazon.in,Standard,J02696,SET3322-TP-XXL,Ethnic Dress,L,B0S932378,In Transit,4,1376.76,False,INR,Pink,344.19,2022-05,False
+707-4976500-5179188,05-11-22,Shipped,Merchant,Amazon.in,Standard,J02192,JNE1673-DR-XXL,Saree,L,B0C654943,Cancelled,1,2432.61,False,INR,Red,2432.61,2022-05,False
+828-3400540-7103256,04-08-22,Cancelled,Amazon,Amazon.in,Expedited,JNE1440,SET3478-BL-XXL,Top,M,B0Z386007,In Transit,1,643.32,False,INR,White,643.32,2022-04,True
+711-3019346-5959673,06-16-22,Shipped,Amazon,Amazon.in,Expedited,J01116,SET1832-KR-L,Ethnic Dress,L,B0G251057,In Transit,1,2063.68,True,INR,Yellow,2063.68,2022-06,False
+740-7409222-3633660,04-10-22,Shipped,Merchant,Amazon.in,Expedited,J01967,SET910-BL-L,Western Dress,M,B0S234779,In Transit,1,2291.56,False,INR,Black,2291.56,2022-04,False
+951-7291943-1427236,04-06-22,Shipped,Merchant,Amazon.in,Expedited,J02611,JNE2736-TP-L,Saree,XXL,B0Y696146,Shipped,1,1296.33,False,INR,Blue,1296.33,2022-04,False
+635-3741090-4942873,04-16-22,Shipped,Amazon,Amazon.in,Standard,J0432,SET1507-KR-XL,Top,XL,B0R165169,Cancelled,1,355.16,False,INR,Yellow,355.16,2022-04,False
+262-2933559-5374737,06-27-22,Shipped,Amazon,Amazon.in,Expedited,JNE314,J03552-DR-XL,kurta,S,B0B329639,Delivered,1,404.79,False,INR,Pink,404.79,2022-06,False
+119-9560523-5859342,06-03-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,PJNE2352,JNE264-DR-XXL,Western Dress,S,B0G340654,Cancelled,1,1937.72,True,INR,Black,1937.72,2022-06,False
+255-9996446-1123311,06-13-22,Shipped,Merchant,Amazon.in,Expedited,PJNE754,JNE3189-TP-L,Western Dress,M,B0K372988,Cancelled,1,2105.78,False,INR,Red,2105.78,2022-06,False
+888-7806362-4432451,05-27-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,JNE3142,JNE919-TP-3XL,Set,3XL,B0G722076,In Transit,1,2424.79,False,INR,Blue,2424.79,2022-05,False
+322-9574824-1399507,06-21-22,Cancelled,Merchant,Amazon.in,Standard,J0945,SET3978-BL-3XL,Blouse,L,B0O509735,Delivered,1,2246.47,False,INR,Maroon,2246.47,2022-06,True
+354-2303155-2799550,06-10-22,Cancelled,Amazon,Amazon.in,Expedited,JNE3978,SET3909-KR-L,Ethnic Dress,XL,B0M864147,Delivered,1,2468.6,False,INR,White,2468.6,2022-06,True
+177-5697262-8004270,04-27-22,Cancelled,Amazon,Amazon.in,Expedited,JNE1337,JNE1176-BL-M,Blouse,S,B0U880413,Shipped,1,1172.28,False,INR,Maroon,1172.28,2022-04,True
+693-5582437-5530969,04-22-22,Shipped,Amazon,Amazon.in,Expedited,SET982,JNE1728-BL-S,Set,S,B0P553496,Cancelled,1,1866.06,False,INR,Blue,1866.06,2022-04,False
+826-5723937-9039158,06-12-22,Cancelled,Amazon,Amazon.in,Expedited,J03671,JNE1061-BL-S,Set,3XL,B0B690570,Cancelled,1,2405.69,False,INR,Maroon,2405.69,2022-06,True
+712-7162223-8654730,04-29-22,Shipped,Merchant,Amazon.in,Expedited,J03074,J02314-DR-L,Blouse,3XL,B0U463633,Cancelled,2,615.56,False,INR,Yellow,307.78,2022-04,False
+788-9296512-7842181,05-17-22,Shipped,Merchant,Non-Amazon,Expedited,J03724,JNE1463-TP-3XL,Top,XL,B0O890315,Delivered,4,7855.28,False,INR,White,1963.82,2022-05,False
+747-3674757-3340778,06-03-22,Shipped,Amazon,Amazon.in,Expedited,PJNE3707,JNE2153-KR-XXL,Saree,S,B0S104236,In Transit,4,2130.48,False,INR,Pink,532.62,2022-06,False
+849-7263305-7626337,04-29-22,Shipped,Merchant,Amazon.in,Expedited,PJNE2917,JNE1024-BL-M,Blouse,3XL,B0Y297479,Shipped,2,1938.54,False,INR,Black,969.27,2022-04,False
+873-7813560-6081107,06-02-22,Shipped,Amazon,Amazon.in,Expedited,SET196,JNE227-TP-S,kurta,M,B0F967860,Shipped,3,5392.08,True,INR,Maroon,1797.36,2022-06,False
+711-6036779-6757430,04-15-22,Shipped,Merchant,Amazon.in,Expedited,PJNE2701,J02530-KR-3XL,Top,XL,B0B624282,In Transit,3,5161.95,False,INR,Red,1720.65,2022-04,False
+200-8091757-6889724,06-28-22,Shipped - Delivered to Buyer,Merchant,Non-Amazon,Expedited,PJNE3209,JNE2045-TP-XXL,Top,S,B0C357309,Shipped,2,2163.28,False,INR,White,1081.64,2022-06,False
+895-8569862-4633195,04-30-22,Shipped,Merchant,Amazon.in,Expedited,JNE3931,J01920-KR-XXL,Ethnic Dress,M,B0O388086,Cancelled,4,1111.96,False,INR,Blue,277.99,2022-04,False
+562-5922258-3730427,05-02-22,Shipped,Amazon,Amazon.in,Expedited,JNE2913,JNE3529-KR-M,Ethnic Dress,XL,B0P361140,Shipped,1,1387.49,False,INR,Pink,1387.49,2022-05,False
+697-9277057-4837494,05-18-22,Cancelled,Merchant,Amazon.in,Standard,JNE515,JNE670-DR-3XL,Set,XXL,B0S124828,Cancelled,1,712.87,False,INR,Yellow,712.87,2022-05,True
+208-8023355-8946662,04-02-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,PJNE374,JNE457-TP-3XL,Blouse,L,B0P520821,Delivered,1,1794.77,False,INR,Pink,1794.77,2022-04,False
+556-7263217-5412519,04-15-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,SET2484,SET574-KR-M,Set,M,B0E414932,Delivered,1,1510.97,False,INR,Yellow,1510.97,2022-04,False
+781-5460852-9900636,04-01-22,Shipped,Amazon,Amazon.in,Standard,J03871,JNE3624-BL-M,Western Dress,M,B0V597821,Cancelled,1,2011.6,False,INR,Black,2011.6,2022-04,False
+172-3451359-3129961,04-22-22,Cancelled,Amazon,Amazon.in,Expedited,JNE2418,JNE1111-BL-3XL,Top,L,B0H968195,In Transit,1,1641.17,False,INR,Yellow,1641.17,2022-04,True
+843-7269347-7556137,04-05-22,Shipped,Merchant,Amazon.in,Standard,SET2063,J03988-BL-3XL,Saree,3XL,B0F353063,In Transit,1,1106.65,False,INR,Black,1106.65,2022-04,False
+895-3442155-1670225,05-25-22,Shipped,Merchant,Amazon.in,Expedited,J01343,J02579-TP-L,Ethnic Dress,XL,B0Q611482,Cancelled,1,351.57,False,INR,Pink,351.57,2022-05,False
+629-2055863-5221029,05-30-22,Shipped,Merchant,Amazon.in,Standard,SET1382,SET3815-DR-XXL,Western Dress,M,B0L421228,Delivered,1,1325.25,False,INR,Yellow,1325.25,2022-05,False
+727-3336691-5949535,05-05-22,Shipped,Amazon,Amazon.in,Expedited,J0937,SET2482-DR-S,Western Dress,3XL,B0X405619,Delivered,1,1739.27,False,INR,White,1739.27,2022-05,False
+834-5542271-8702071,04-23-22,Shipped,Merchant,Amazon.in,Expedited,J0609,SET3430-BL-S,Blouse,S,B0G951434,In Transit,2,2123.0,False,INR,Maroon,1061.5,2022-04,False
+372-1855521-8175737,06-09-22,Shipped,Merchant,Amazon.in,Expedited,PJNE1382,JNE672-DR-S,Ethnic Dress,L,B0Y940223,Shipped,2,2749.14,True,INR,Black,1374.57,2022-06,False
+860-8101189-4437529,05-05-22,Cancelled,Amazon,Amazon.in,Expedited,JNE556,SET2657-TP-L,Set,XL,B0H341684,Delivered,1,816.35,False,INR,Red,816.35,2022-05,True
+424-4688845-3883035,06-09-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,SET473,J03132-TP-XL,Western Dress,S,B0D358152,Cancelled,2,1095.84,False,INR,Maroon,547.92,2022-06,False
+103-5005908-6175674,06-17-22,Shipped,Merchant,Amazon.in,Expedited,PJNE1927,JNE1051-KR-S,kurta,XL,B0W565707,Cancelled,3,6928.62,False,INR,Yellow,2309.54,2022-06,False
+789-9246334-8325776,06-17-22,Shipped,Merchant,Amazon.in,Expedited,PJNE3533,SET2584-DR-L,Saree,M,B0W181114,Cancelled,1,1443.91,False,INR,Yellow,1443.91,2022-06,False
+397-4873783-7366014,04-26-22,Shipped,Merchant,Non-Amazon,Expedited,SET2743,J0364-BL-3XL,kurta,S,B0M699425,In Transit,1,1130.74,False,INR,Blue,1130.74,2022-04,False
+361-6842330-4834547,06-01-22,Shipped,Merchant,Amazon.in,Standard,PJNE747,JNE997-DR-S,Top,XL,B0L150309,Delivered,2,4580.26,False,INR,Pink,2290.13,2022-06,False
+361-8601770-3500297,04-11-22,Shipped,Merchant,Amazon.in,Expedited,SET1038,SET1376-DR-XXL,Ethnic Dress,S,B0H196753,Shipped,2,628.3,False,INR,Pink,314.15,2022-04,False
+117-4278016-2292642,05-06-22,Shipped,Amazon,Amazon.in,Expedited,SET2287,JNE3291-BL-XXL,Ethnic Dress,L,B0X287615,Delivered,1,1172.51,False,INR,Pink,1172.51,2022-05,False
+625-1347589-9403927,05-01-22,Cancelled,Amazon,Amazon.in,Expedited,PJNE738,JNE1090-TP-XXL,Saree,L,B0O357728,Cancelled,1,2166.44,False,INR,Black,2166.44,2022-05,True
+486-3280095-1009619,05-01-22,Shipped,Merchant,Amazon.in,Standard,PJNE2354,J03074-BL-XXL,kurta,XL,B0U644898,In Transit,1,1934.38,False,INR,Yellow,1934.38,2022-05,False
+229-1610970-4471088,05-02-22,Cancelled,Amazon,Amazon.in,Expedited,J0573,J03803-BL-XL,Ethnic Dress,XL,B0J491772,Shipped,3,1748.58,False,INR,Green,582.86,2022-05,True
+985-3346211-6066251,04-02-22,Shipped,Merchant,Amazon.in,Expedited,SET3801,SET1135-BL-XL,kurta,XL,B0W587802,In Transit,1,1667.44,False,INR,Maroon,1667.44,2022-04,False
+755-2699277-5956293,04-16-22,Shipped,Merchant,Amazon.in,Expedited,PJNE3733,J03672-BL-S,Top,XXL,B0J472007,Cancelled,3,2290.02,True,INR,Maroon,763.34,2022-04,False
+111-2699577-3448450,04-08-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,J0198,SET1752-TP-XXL,Western Dress,XL,B0L751975,In Transit,1,912.79,False,INR,Blue,912.79,2022-04,False
+881-9623013-1606595,06-05-22,Shipped - Delivered to Buyer,Amazon,Non-Amazon,Expedited,PJNE1452,J03025-BL-3XL,Ethnic Dress,3XL,B0U380080,Delivered,1,1207.32,False,INR,Green,1207.32,2022-06,False
+410-1203251-3230397,04-11-22,Shipped,Amazon,Amazon.in,Expedited,SET1848,J02427-TP-M,Ethnic Dress,S,B0C271328,Shipped,1,1106.12,False,INR,Maroon,1106.12,2022-04,False
+605-2916579-2341666,04-08-22,Shipped - Returned to Seller,Merchant,Amazon.in,Expedited,J03584,SET1157-TP-3XL,kurta,3XL,B0K652294,Delivered,1,2455.75,False,INR,Red,2455.75,2022-04,True
+594-5566565-6505504,06-15-22,Shipped,Merchant,Amazon.in,Standard,PJNE310,J01330-TP-S,Saree,M,B0R334488,Delivered,3,2157.78,False,INR,Green,719.26,2022-06,False
+522-7708381-8034544,05-29-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,PJNE3985,J0371-TP-S,kurta,XL,B0M954653,Cancelled,3,5408.94,False,INR,Maroon,1802.98,2022-05,False
+603-7649560-4590803,04-03-22,Shipped,Merchant,Amazon.in,Expedited,SET2600,JNE1476-DR-XXL,Western Dress,L,B0S495153,Shipped,3,1412.76,False,INR,Black,470.92,2022-04,False
+912-3548252-1861640,04-01-22,Shipped,Amazon,Amazon.in,Expedited,J03555,SET2880-TP-3XL,kurta,XXL,B0C142393,Delivered,1,1332.09,False,INR,White,1332.09,2022-04,False
+100-4225388-3851025,04-12-22,Shipped,Merchant,Amazon.in,Expedited,J02530,SET2620-KR-XXL,Set,L,B0E168097,Cancelled,4,1553.6,False,INR,Red,388.4,2022-04,False
+329-5759646-1537436,04-20-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,PJNE3418,SET1569-TP-L,Blouse,3XL,B0W954209,Cancelled,2,2766.5,False,INR,Green,1383.25,2022-04,False
+258-1617362-2333002,05-09-22,Shipped,Amazon,Amazon.in,Expedited,JNE1938,JNE711-KR-L,Blouse,L,B0W435492,Delivered,1,752.57,False,INR,Yellow,752.57,2022-05,False
+846-6075879-4519388,05-22-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,PJNE884,SET370-KR-S,Set,L,B0M295624,Cancelled,3,5208.06,False,INR,Yellow,1736.02,2022-05,False
+824-8085830-6281272,06-29-22,Shipped,Amazon,Amazon.in,Standard,J01803,JNE2094-TP-M,Saree,S,B0E351682,Cancelled,1,504.68,False,INR,Green,504.68,2022-06,False
+451-7258302-6656938,04-23-22,Shipped,Amazon,Amazon.in,Standard,SET964,JNE1461-TP-XXL,Top,XL,B0Q719171,Delivered,1,220.22,False,INR,Blue,220.22,2022-04,False
+567-1746815-5772877,05-28-22,Pending,Merchant,Amazon.in,Expedited,JNE2043,SET3905-BL-XXL,Blouse,XXL,B0H430489,Delivered,1,866.44,False,INR,Red,866.44,2022-05,False
+360-7623855-5452101,06-22-22,Shipped - Returned to Seller,Amazon,Amazon.in,Expedited,PJNE1078,SET109-BL-S,Saree,S,B0Z942304,In Transit,1,726.79,False,INR,Yellow,726.79,2022-06,True
+906-6137252-1858921,04-02-22,Cancelled,Merchant,Non-Amazon,Expedited,J03293,JNE3603-DR-XL,Ethnic Dress,XXL,B0X444548,Delivered,2,3768.66,False,INR,Green,1884.33,2022-04,True
+591-1347135-2668660,04-01-22,Shipped,Amazon,Amazon.in,Standard,SET2792,SET2851-TP-XL,Blouse,M,B0N314007,Delivered,1,955.18,False,INR,Red,955.18,2022-04,False
+259-3037439-1055838,05-09-22,Shipped,Amazon,Amazon.in,Standard,J0833,JNE3233-BL-L,Ethnic Dress,S,B0Q903208,Cancelled,2,3337.5,False,INR,Maroon,1668.75,2022-05,False
+461-3959476-7507557,06-24-22,Cancelled,Amazon,Amazon.in,Expedited,JNE3831,J03394-KR-S,Ethnic Dress,M,B0E458719,Delivered,1,390.52,False,INR,Green,390.52,2022-06,True
+911-8254494-2737605,05-31-22,Cancelled,Merchant,Amazon.in,Expedited,PJNE3268,J03162-KR-3XL,Saree,M,B0V918691,Cancelled,1,267.51,False,INR,Maroon,267.51,2022-05,True
+563-4155467-1062440,05-19-22,Shipped,Merchant,Amazon.in,Expedited,J02757,SET1802-KR-L,Western Dress,XL,B0C240592,Shipped,1,656.96,False,INR,Black,656.96,2022-05,False
+879-6716053-3009122,06-14-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,SET1378,J03467-BL-L,kurta,S,B0D157580,In Transit,1,1472.25,False,INR,Pink,1472.25,2022-06,False
+970-7912713-2248178,06-28-22,Shipped,Merchant,Amazon.in,Expedited,J01766,JNE207-TP-L,Western Dress,M,B0W197597,Delivered,2,4994.7,False,INR,Black,2497.35,2022-06,False
+226-4063837-4561978,05-16-22,Shipped,Amazon,Amazon.in,Expedited,JNE3424,J02348-TP-XXL,Set,3XL,B0J205314,Cancelled,1,806.66,False,INR,Blue,806.66,2022-05,False
+240-2153392-2582342,05-09-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,PJNE3415,SET1762-KR-L,Top,M,B0S688450,Delivered,1,965.51,False,INR,Pink,965.51,2022-05,False
+931-1282620-8890587,04-23-22,Shipped,Amazon,Amazon.in,Expedited,SET1770,JNE2891-TP-XXL,Blouse,3XL,B0Y982733,Delivered,3,5431.8,False,INR,Green,1810.6,2022-04,False
+640-5910796-6775856,04-07-22,Shipped,Amazon,Amazon.in,Expedited,J01203,JNE2624-KR-3XL,Top,XL,B0I779831,Cancelled,1,1732.83,True,INR,Black,1732.83,2022-04,False
+288-3012883-5173838,05-21-22,Shipped,Amazon,Amazon.in,Expedited,SET3151,JNE3095-KR-3XL,Ethnic Dress,XL,B0E328731,In Transit,1,780.75,False,INR,Blue,780.75,2022-05,False
+209-6727019-4461700,06-22-22,Shipped,Merchant,Amazon.in,Standard,JNE3658,SET1431-BL-XL,kurta,3XL,B0Q813361,In Transit,2,4215.86,False,INR,Green,2107.93,2022-06,False
+978-5072979-9219381,06-20-22,Cancelled,Merchant,Amazon.in,Expedited,J0112,SET1998-DR-S,kurta,S,B0X581031,In Transit,1,1011.31,False,INR,Black,1011.31,2022-06,True
+584-9885085-2095468,05-06-22,Cancelled,Merchant,Amazon.in,Expedited,PJNE922,J03638-TP-XL,kurta,XL,B0I268252,Cancelled,1,606.24,False,INR,Pink,606.24,2022-05,True
+664-9551308-3427531,04-02-22,Shipped,Amazon,Amazon.in,Expedited,J02925,JNE1213-TP-3XL,Saree,XL,B0A166026,Shipped,1,1316.58,False,INR,Red,1316.58,2022-04,False
+976-9890570-4069345,05-02-22,Shipped - Returned to Seller,Merchant,Non-Amazon,Expedited,JNE1440,J03252-BL-XXL,Saree,L,B0A604385,Delivered,1,2401.66,False,INR,Red,2401.66,2022-05,True
+511-6987578-2612121,05-24-22,Shipped,Merchant,Amazon.in,Expedited,SET1430,JNE3613-TP-L,Western Dress,XL,B0Y352882,In Transit,2,1648.94,False,INR,Yellow,824.47,2022-05,False
+336-7890994-1736129,06-10-22,Shipped - Returned to Seller,Amazon,Amazon.in,Expedited,JNE520,J02346-BL-3XL,Set,M,B0H873874,Delivered,2,872.68,False,INR,Black,436.34,2022-06,True
+387-8547010-4507854,04-04-22,Shipped,Amazon,Amazon.in,Expedited,JNE483,SET3340-DR-S,Western Dress,XL,B0W390541,Delivered,1,1550.25,False,INR,Blue,1550.25,2022-04,False
+202-2488309-9450691,06-01-22,Shipped - Returned to Seller,Amazon,Amazon.in,Expedited,PJNE2952,SET3928-TP-XL,Saree,XXL,B0W272275,Shipped,4,8116.64,False,INR,Blue,2029.16,2022-06,True
+146-4009691-4285919,06-24-22,Shipped,Amazon,Amazon.in,Expedited,JNE2810,SET1024-DR-S,Western Dress,S,B0X859233,Delivered,1,2090.32,False,INR,Red,2090.32,2022-06,False
+585-7343232-1127889,06-26-22,Shipped - Returned to Seller,Amazon,Amazon.in,Expedited,PJNE544,JNE3231-DR-M,Top,S,B0E535214,Shipped,1,344.52,False,INR,Pink,344.52,2022-06,True
+705-6537308-8601004,05-04-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,SET1939,SET805-BL-L,Blouse,L,B0I735732,Delivered,1,1475.49,False,INR,Blue,1475.49,2022-05,False
+193-2935210-3126997,04-25-22,Shipped,Amazon,Amazon.in,Standard,JNE2394,SET1716-DR-S,Top,XXL,B0F665209,Delivered,1,1975.88,False,INR,Green,1975.88,2022-04,False
+651-2402036-6689354,04-06-22,Shipped,Amazon,Amazon.in,Expedited,SET3491,JNE280-BL-XL,Ethnic Dress,M,B0E941870,Delivered,2,2898.88,False,INR,Black,1449.44,2022-04,False
+659-2344809-6399619,06-05-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,J0222,JNE3235-KR-S,kurta,3XL,B0W125383,Shipped,1,363.3,False,INR,Pink,363.3,2022-06,False
+924-2648539-8364846,06-20-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,JNE3045,JNE1547-TP-XL,Ethnic Dress,3XL,B0D933292,In Transit,1,1781.3,False,INR,Red,1781.3,2022-06,False
+652-8999013-5818144,04-20-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,SET819,SET2153-KR-L,Set,XL,B0P142344,Cancelled,1,539.27,False,INR,Blue,539.27,2022-04,False
+453-6729237-2487947,06-15-22,Shipped,Merchant,Amazon.in,Expedited,SET1759,SET2406-KR-M,Set,XL,B0E936449,In Transit,1,799.96,False,INR,White,799.96,2022-06,False
+690-7296917-1702514,05-17-22,Shipped,Amazon,Amazon.in,Expedited,SET1084,SET2566-BL-XXL,Blouse,L,B0Z117819,Delivered,1,912.29,False,INR,Blue,912.29,2022-05,False
+954-9868030-3084811,05-04-22,Shipped,Amazon,Amazon.in,Standard,SET2342,SET2141-DR-XXL,Saree,M,B0M853067,Delivered,1,480.54,False,INR,Black,480.54,2022-05,False
+509-5951813-3866741,05-21-22,Shipped,Merchant,Amazon.in,Expedited,SET3702,SET3198-DR-L,Western Dress,3XL,B0X986088,Cancelled,1,1746.9,False,INR,Red,1746.9,2022-05,False
+746-7541115-3628520,05-02-22,Shipped,Merchant,Amazon.in,Expedited,J03648,JNE864-BL-M,Set,3XL,B0V486974,In Transit,1,292.79,False,INR,Pink,292.79,2022-05,False
+186-8882473-7329559,05-07-22,Shipped,Merchant,Amazon.in,Expedited,J02201,J03437-KR-M,kurta,3XL,B0D486265,Delivered,3,6885.9,False,INR,Pink,2295.3,2022-05,False
+813-2032303-6703062,05-05-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,J01078,JNE3853-DR-M,Western Dress,L,B0G968772,In Transit,2,1015.56,False,INR,Black,507.78,2022-05,False
+196-8629336-9828362,05-20-22,Shipped,Merchant,Amazon.in,Standard,JNE2584,JNE1087-KR-3XL,Blouse,3XL,B0G616508,Delivered,1,524.26,False,INR,White,524.26,2022-05,False
+185-9470588-9332679,04-28-22,Shipped - Delivered to Buyer,Merchant,Non-Amazon,Expedited,PJNE3290,J03050-KR-S,Set,M,B0G960198,Shipped,2,4330.14,False,INR,Blue,2165.07,2022-04,False
+957-9789075-1220120,06-14-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,PJNE1180,J01261-KR-3XL,Set,XL,B0A751226,Delivered,1,1153.55,False,INR,White,1153.55,2022-06,False
+991-9824168-5812312,04-17-22,Cancelled,Amazon,Amazon.in,Expedited,PJNE2270,SET1504-KR-XXL,Set,M,B0Y527063,Delivered,1,1587.49,False,INR,Pink,1587.49,2022-04,True
+381-6623576-6665576,04-27-22,Shipped,Merchant,Amazon.in,Expedited,JNE2948,J03611-TP-M,Ethnic Dress,XXL,B0R527030,Shipped,1,539.13,False,INR,Blue,539.13,2022-04,False
+909-1777764-9713066,05-13-22,Shipped,Amazon,Amazon.in,Expedited,JNE3945,JNE3966-DR-S,kurta,XXL,B0G478873,Cancelled,1,1108.64,False,INR,Black,1108.64,2022-05,False
+863-4571088-2676811,04-03-22,Shipped,Amazon,Amazon.in,Expedited,J01557,JNE3448-BL-XXL,Top,XXL,B0F557431,Shipped,1,1246.95,False,INR,Maroon,1246.95,2022-04,False
+637-5425545-5872117,05-24-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Expedited,JNE3351,J01932-DR-L,Saree,L,B0H600052,Delivered,1,2274.56,False,INR,Green,2274.56,2022-05,False
+783-7217012-8575481,04-29-22,Shipped,Amazon,Amazon.in,Expedited,J02412,J02998-KR-L,Blouse,L,B0S290608,Shipped,1,1863.87,False,INR,Maroon,1863.87,2022-04,False
+686-8058810-7306018,05-02-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Expedited,PJNE467,J01310-DR-XXL,Ethnic Dress,L,B0S502756,Delivered,2,2251.14,False,INR,Black,1125.57,2022-05,False
+911-4262346-3938087,05-07-22,Shipped - Delivered to Buyer,Amazon,Amazon.in,Standard,SET1305,JNE3279-BL-XL,Set,XXL,B0R157433,Cancelled,2,4479.76,False,INR,Blue,2239.88,2022-05,False
+527-1512046-8415350,06-10-22,Shipped,Amazon,Amazon.in,Expedited,SET2229,J01002-TP-3XL,Top,3XL,B0T479376,Delivered,1,1671.55,False,INR,Pink,1671.55,2022-06,False
+947-1051543-6782819,06-23-22,Pending,Merchant,Amazon.in,Expedited,SET3795,J02419-BL-L,Ethnic Dress,S,B0R943668,Delivered,2,4243.46,False,INR,White,2121.73,2022-06,False
+663-7416175-7346755,06-08-22,Shipped,Merchant,Amazon.in,Expedited,SET161,J02073-BL-S,Blouse,3XL,B0V252795,Delivered,1,1719.11,False,INR,White,1719.11,2022-06,False
+296-5480306-7688580,06-12-22,Shipped,Amazon,Amazon.in,Standard,J03580,J01213-KR-S,Western Dress,M,B0P888878,Delivered,4,7699.88,True,INR,Yellow,1924.97,2022-06,False
+219-7495927-9454027,06-15-22,Pending,Amazon,Amazon.in,Expedited,J03473,JNE296-KR-XL,Top,XXL,B0B741799,In Transit,3,3283.08,False,INR,Black,1094.36,2022-06,False
+634-4286648-8437568,05-11-22,Cancelled,Merchant,Amazon.in,Expedited,J01003,J01246-TP-S,Set,XL,B0O564199,In Transit,1,1978.4,False,INR,Blue,1978.4,2022-05,True
+233-3301718-6780597,05-27-22,Shipped,Amazon,Amazon.in,Expedited,PJNE3069,J03483-BL-XL,kurta,S,B0F692887,Shipped,2,3907.64,False,INR,Red,1953.82,2022-05,False
+299-4329258-4400178,04-02-22,Shipped,Merchant,Amazon.in,Standard,J01565,J03911-DR-M,Top,L,B0M213994,Cancelled,3,5251.95,False,INR,Black,1750.65,2022-04,False
